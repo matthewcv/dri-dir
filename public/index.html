@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: white;
+      }
+      #map {
+        height: 800px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2 id="details"> </h2>
+    <div id="map"></div>
+    <div id="directions"></div>
+    <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 38.881397, lng: -94.819130},
+          zoom: 20,
+          disableDefaultUI:true
+        });
+        console.log('ready')
+      }
+      
+      var dirDisp
+      var dirService
+      function getDirections(from, to, details){
+          if(dirDisp){
+            dirDisp.setMap(null);
+            dirDisp.setPanel(null);
+
+          }
+          document.getElementById('details').innerHTML = details
+          dirDisp = new google.maps.DirectionsRenderer();
+          dirService = new google.maps.DirectionsService();
+
+        dirDisp.setMap(map);
+        dirDisp.setPanel(document.getElementById('directions'));
+        
+        dirService.route({
+            origin: from,//'21300 College Blvd, olathe, ks',
+            destination: to,
+            travelMode: google.maps.TravelMode.DRIVING
+        }, function(response,status){
+            
+            if(status == google.maps.DirectionsStatus.OK){
+                                
+                dirDisp.setDirections(response)
+                thenDo( function(){
+                    map.setZoom(16);
+                    map.setCenter(response.routes.last().legs.last().end_location);
+                    thenDo(function(){
+                        
+                        console.log('render')
+
+                    })
+                })
+                
+            }else{
+                
+                throw "could not get directions " + status
+            }
+        })
+
+          
+      }
+      
+      function thenDo(doit){
+            google.maps.event.addListenerOnce(map,'idle', function(){
+                
+                
+             setTimeout(function(){
+             doit();
+             }, 500);   
+
+            })
+        }
+      
+      
+      Array.prototype.last = function(){
+          if(this.length){
+              return this[this.length-1]
+          }
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCQlQ5_aYz4d64f5ogROLD5yjiURFIDSw&callback=initMap"
+    async defer></script>
+  </body>
+</html>

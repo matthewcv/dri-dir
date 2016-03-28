@@ -3,6 +3,8 @@ var childProcess = require('child_process')
 var phantomjs = require('phantomjs-prebuilt')
 var process = require('process') 
 
+
+
 var binPath = phantomjs.path
 var childArgs = [
   path.join(__dirname, 'make-driving-directions.js'),
@@ -19,10 +21,13 @@ child.on('exit', () => {
  
     var dur = process.hrtime(start);
     console.log('Duration',dur)
+    
+    
 })
 
 child.stdout.on("data", (data) =>{
 
-       console.log(msg);
+       console.log(data.toString());
    
 });
+
