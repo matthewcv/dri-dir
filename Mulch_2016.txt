@@ -1,299 +1,467 @@
-Last Name	First Name	SUBDIVISION	STREET ADDRESS	CITY	Zip Code	PHONE	Total bags	Cypress	Cedar	Brown	Red	Compost	Black
-Cost	Dean	Amber Hills Estates	15180 W. 154th St	Olathe	66062	913-461-7512	30			30			
-Burns	Michelle	Amber Hills Estates	15410 W. 154th Ter	Olathe	66062	913-481-5379	26						26
-Schultz	Mary/Jeff	Amber Hills Estates	15183 W. 154th St	Olathe	66062	913-449-3960	8			8			
-Veatch	Michelle	Arbor Creek	15172 W 153rd Ter	Olathe	66062	913-488-4096	4			4			
-Addington	Jennifer	Arbor Woods	23462 W. 124th St	Olathe	66061	913-530-4086	10			10			
-Ney	Meredith	Austin Meadows	20550 W125th Court	Olathe	66061	913-706-3360	10						10
-Vande Brake	Mike/Kate	Bradford Trails	13825 S. Mullen St	Olathe	66062	913-538-7186	12			12			
-Rone	Brent	Bradford Trails	13809 S. Mullen St	Olathe	66062	913-209-9599	10						10
-Kollmeyer	Josh	Bradford Trails	13813 S. Mullen St	Olathe	66062	316-6191421	8						8
-Rosner	Vanetta	Bradford Trails	14424 W. 138th 	Olathe	66062	913-963-2949	4						4
-Marcucci	Lauren	Briarwood	16350 W 138th Ter	Olathe	66062	913-593-7879	12						12
-Wellman	Vivian	Bridlewood Downs	2639 W Surrey St	Olathe	66061	913-839-3742	30		30				
-Schwartz	Mike	Bridlewood Downs	318 Overlook St.	Olathe	66061	913-579-8178	25				25		
-Andrew	Wendy	Brighton's Landing	11290 S Whitehall St	Olathe	66061	913-780-2927	93		35		8		50
-Sykes	Jennifer	Brighton's Landing	11259 S Whitehall St	Olathe	66061	913-669-2872	10			10			
-Dechant	Crystal	Brighton's Landing 	11278 S Whitehall St	Olathe	66061	913-526-8421	90			90			
-Glasper-Adell	Tamara	Brighton's Landing Reserve	21190 W 112th Ter	Olathe	66061	913-484-9023	10				10		
-Crane	Brian	Brighton's Landing Reserve	21162 W 112th Ter	Olathe	66061	816-812-8962	5					5	
-Hugunin	Shari	Brittany Brooke	17587 W. 111th Ter	Olathe	66061	913-710-0035	10						10
-Hugunin	John	Brittany Brooke	17587 W. 111th Ter	Olathe	66061	913-710-0035	4		4				
-Heller	Rick	Brittany Hills	11532 S. Penrose St	Olathe	66061	913-492-8310	20			20			
-Heller	Rick	Brittany Hills	11532 S. Penrose St	Olathe	66061	913-492-8310	4				4		
-Ringstad	Lynette	Brookfield Park	1007 N Marion St	Olathe	66061	678-778-0032	71	21					50
-Wacker 	Michael	Brookfield Park	1003 N Marion St	Olathe	66061	785-550-4017	4		4				
-Eastland	Julie	Brookwood	8336 Twilight Lane	Lenexa	66219	913-963-3936	25				25		
-Means	Chris	Canyon Creek	9723 Redbird St	Lenexa	66227	913-602-4660	40			40			
-Knaust	Kelly	Canyon Creek	9645 Inspiration St	Lenexa	66227	913-634-0871	10			10			
-Schauf	Mickey	Cedar Brooke	12240 S Crest Dr	Olathe	66061	913-393-0540	60			60			
-Sadler	Shannon	Cedar Brooke	21412 W 119th Pl	Olathe	66061	816-352-3768	25			25			
-Barnhart	Bret	Cedar Brooke	21413 W 119th Pl	Olathe	66061	816-668-6413	12		12				
-Boyd	Mike	Cedar Brooke	21480 W 119th Ter	Olathe	66061	785-691-6585	10	10					
-Rima	Russell	Cedar Brooke	12249 S Crest Dr	Olathe	66061	913-233-9190	8						8
-Bordenave	Elizabeth	Cedar Creek	10124 S. Shadow Circle	Olathe	66061		75			75			
-Brzon	Chris	Cedar Creek	10369 S Highland Lane	Olathe	66061	913-221-2982	75						75
-Wall	Janet	Cedar Creek	26320 W. Cedar Niles Cir	Olathe	66061	913-710-2677	55			55			
-Pirie	Chuck	Cedar Creek	26201 W Cedar Niles Circle	Olathe	66061	816-509-4900	50				50		
-Henige	Lisa	Cedar Creek	11648 S Lewis Dr	Olathe	66061	913-839-8435	50						50
-Henoch	Rex/Lisa	Cedar Creek	26431 W 110th Ter	Olathe	66061	913-393-2049	50			50			
-Mealman	Ron	Cedar Creek	26180 W Cedar Niles Circle	Olathe	66061	913-961-7050	40			40			
-Dehon	Jeff	Cedar Creek	26281 W Cedar Niles Circle	Olathe	66061	913-782-7619	40			40			
-Kimball	Scott/Amy	Cedar Creek	11195 S Glenview Lane	Olathe	66061	913-839-3982	40						40
-Kaminsky	Linda	Cedar Creek	10235 S. Greentree Ct	Olathe	66061		26			26			
-Ochsner	Jay/Amy	Cedar Creek	11371 S. Parish St	Olathe	66061	913-484-0538	20		20				
-Shiever	Trish	Cedar Creek	24761 W. 103rd Ter	Olathe	66061	913-956-6508	5						5
-Shiever	Trish	Cedar Creek	24761 W. 103rd Ter	Olathe	66061	913-956-8508	5						5
-Ash	Scott	Cedar Creek	27200 W 107th St	Olathe	66061		5			5			
-DeAngelis	Michelle	Cedarbrooke	21457 W. 121st Ter	Olathe	66061		30			30			
-Winn	Keith	Cedarbrooke	21465 W. 122nd St	Olathe	66061	816-807-7140	30			30			
-Meyer	David	Cedarbrooke	21252 W. 119th Place	Olathe	66061	816-598-0620	25						25
-Bruning	David	Cedarbrooke	21312 W. 119th Place	Olathe	66061		15			15			
-Bayne	Chris	Cedarbrooke	21242 W. 119th Place	Olathe	66061	913-707-8811	14						14
-Harris	Kelly	Cedarbrooke	21235 W. 120th Ter	Olathe	66061	913-523-3568	10						10
-Lefler	Sean	Cedarbrooke	21212 W. 119th Place	Olathe	66061		10						10
-Thompson	Jim	Cedarbrooke	21243 W. 119th Place	Olathe	66061	913-768-4420	6		6				
-Davis	Terry	College Park Estates	10913 W 115th Ter	Overland Park	66210	913-909-5881	10	10					
-Buehne	Nancy	Country Hill West	8941 Tomashaw	Lenexa	66219	913-530-1616	12			12			
-Berry	Loya	Desoto					10			10			
-Riedhart	Wanda	Desoto				785-248-6024	10				10		
-Ginger	Heather	Desoto				913-274-0224	9			4	5		
-Newton	Janis	Desoto				913-620-5250	5	5					
-Savage	Marjorie	Desoto					5		5				
-Olmedo	Robert	Devonshire	16613 W. Indian Creek	Olathe	66062	913-636-7198	5				5		
-Kabler	Holly	Eagles Crest	19655 W. 105th St	Olathe	66061	913-669-5779	12			12			
-McGlinn	Brian	Fairway Hills	13407 W 74th St	Shawnee	66216	913-638-8719	10						10
-East	Jan	Fairway Woods	12609 Bradshaw	Overland Park	66213	816-809-9670	10						10
-Bury	Marla	Falcon Meadows	9731 Marion St.	Lenexa	66220	816-820-0648	18					8	10
-Ferneau	Don	Falcon Meadows	21408 W. 98th St	Lenexa	66220	515-480-1350	12						12
-Cooper	Jeff	Falcon Meadows	21100 W 98th St	Lenexa	66220	913-488-5255	6			6			
-Cowan	Cliff	Falcon Point	19507 W 97th St	Lenexa	66220	913-484-4861	20						20
-Peterson	Jeff	Falcon Pointe	19638 W 97th St	Lenexa	66220	520-403-6330	40				40		
-Sobczyk	Brian	Falcon Pointe	19624 W 97th St	Lenexa	66220	913-908-0099	22	12		10			
-Howe	Brian/Katie	Falcon Pointe	19627 W 97th St	Lenexa	66220	913-652-6574	6						6
-Adam	Diane	Falcon Ridge	9614 Vista Dr	Lenexa	66220	913-909-5244	60					60	
-Kickbusch	Jay	Falcon Ridge	20818 W. 94th St	Lenexa	66220	913-707-9158	30			30			
-McFarland	Amy 	Falcon Ridge	20611 W 96th St	Lenexa	66220	913-390-6003	20			20			
-Aldridge	Dennis	Falcon Ridge	9832 Vista Dr.	Lenexa	66220	913-530-7824	10			10			
-Plas	Cheryl	Falcon Ridge	9831 Vista Dr.	Lenexa	66220	913-780-1804	2			2			
-Jones	AR/Julie	Falcon Ridge Villas	9835 Vista Dr.	Lenexa	66220	816-916-6960	20						20
-McCormick 	Kristi	Falcon Ridge Villas	19929 W. 99th St	Lenexa	66220	913-440-4064	10			10			
-Hart	Maleah	Falcon Ridge Villas	9838 Chestnut	Lenexa	66220	913-219-8745	5		5				
-Dorothy	James/Barbara	Falcon Ridge Villas	9839 Vista Dr.	Lenexa	66220	630-670-3907	3				3		
-Johns	Becky	Falcon Valley	18906 W. 97th Ter	Lenexa	66220	913-636-0826	120			120			
-Wessel	Mike/Shara	Falcon Valley	18914 W. 100th St	Lenexa	66220	913-486-0601	60			60			
-Kivett	Greg	Falcon Valley	19610 W 97th Ter	Lenexa	66220	816-985-7260	25			25			
-Stucky	Erin	Falcon Valley	19618 W 97th Ter	Lenexa	66220	913-322-9419	20			20			
-Schellhardt	Tom	Falcon Valley	19621 W 99th St	Lenexa	66220	319-290-2348	10						10
-Alexander	Jay	Falcon Valley	18629 W 97th Ter	Lenexa	66220	913-302-9512	10			10			
-Becker	Michelle	Falcon Valley	10030 Warwick St	Lenexa	66220		8			8			
-Elvin	Rachel 	Falcon Valley	18933 W 100th St	Lenexa	66220	913-568-7074	6			6			
-Bennudriti	Lisa	Falcon Valley	18939 W 100th St	Lenexa	66220		6						6
-Umscheid	Gary	Falcon Valley	18933 W 100th St	Lenexa	66220		4	4					
-Parsons	Lisa	Falcon Valley	19609 W 97th Ter	Lenexa	66220	913-302-0508	4			4			
-Novacek	Jay	Forest Glen	12705 W 138th St	Overland Park	66221	913-207-2609	30						30
-Bachkora	Tom	Forest Glen	12716 W 138th St	Overland Park	66221	913-402-8131	12						12
-Elder	Rob	Forestview	23808 W 124th Court	Olathe	66061	913-787-5861	30						30
-Bass	Jason	Forestview	23720 W 125th St	Olathe	66061	913-744-8072	30			30			
-Buckley	Kim	Forestview	24131 W. 121st St	Olathe	66061	913-206-3011	20						20
-Delong	Wes	Forestview	23812 W 124th Court	Olathe	66061	913-254-0655	10			10			
-McGavran	Marcie	Forestview	23866 W 125th St	Olathe	66062	913-579-1937	10						10
-Hopkins	Melissa	Forestview	23870 W 121st St	Olathe	66061	720-771-8245	5		5				
-Sparks	Vince	Forestview	23816 W 124th Court	Olathe	66061	913-638-4792	3					1	2
-Wiltanger	Matt	Forestview Estates	12053 S Barth Rd	Olathe	66061	913-620-0754	21						21
-Denning	Nick	Forestview Meadows	23684 W 125th St	Olathe	66061	816-401-1451	20			20			
-Riddle	Kim	Foxfield Village	20944 W. 117th St	Olathe	66061	913-219-3232	10			10			
-Hill	Brian	Foxfield Village	20933 W. 117th St	Olathe	66061	913-488-4105	10	10					
-Werner	Shannon	Foxfield Village	20932 W. 117th St	Olathe	66061	913-744-1644	8						8
-Gorman	Katie	Foxfield Village	20926 W 117th St	Olathe	66061	913-961-4767	2			2			
-Staton	David	Grayson Place	12169 South Valley Rd	Olathe	66061	816-605-3219	20			20			
-Hynek	Dan	Green Springs	14150 W. 146th Ter	Olathe	66062	913-269-7674	15			15			
-Welland	Scott	Heatherstone	13723 W 121st	Olathe	66062	913-397-9132	10		10				
-Shiever	Trish	Hidden Lakes	24761 W. 103rd Ter	Olathe	66061	913-956-8508	6						6
-Sheiver	Tricia	Hidden Lakes	24761 W. 103rd Ter	Olathe	66061	913-956-8307	5						5
-Preston	Brian	Hunter's Creek	12342 S Crest Dr	Olathe	66061	913-390-0368	30						30
-Stovall	Russell	Hunter's Creek	12362 S Parker Ter	Olathe	66061	913-764-4539	15						15
-Franks	Michael	Hunter's Creek	12358 S Parker Ter	Olathe	66061	512-497-8287	10				5		5
-Madison	Gina	Hunter's Creek	20941 W 123rd Ter	Olathe	66061	913-634-5963	4						4
-Eighme	Lance	Hunter's Creek	12394 S Crest Dr	Olathe	66061	913-961-0373	3				3		
-Stubbolo	Kimberly	Hunter's Creek	12366 S Parker Ter	Olathe	66061	913-202-9155	2			2			
-Schmidt	LeaAnn	Hunter's Creek	12351 S Parker	Olathe	66061	913-461-8352	2		2				
-Robinson	Ryan	Hunter's Creek 	12361 S Crest Dr.	Olathe	66061	785-341-1087	8		4				4
-Saves	Christine	Hunter's Creek Estates	12443 S Parker Ter	Olathe	66061	913-829-4924	35		35				
-Ellis	Brigette	Hunter's Creek Estates	20974 W. 125th St	Olathe	66061	913-530-0860	12			12			
-Novacek	Patty	Kensington Valley	15130 Melrose Drive	Overland Park	66213		20			20			
-McEachen	Neil	Knightsbrooke	13001 Noland St	Overland Park	66213	913-722-4258	20						20
-Winne	Jim	Leawood	8520 Belinder Rd	Leawood	66206	913-593-8200	20						20
-Maurice	Scott	Manchester Park	21520 W 99th St	Lenexa	66220	913-322-1489	70			70			
-Wolfe	Kurt	Manchester Park	21713 W 99th St	Lenexa	66220	816-896-0960	50						50
-Rise 	Brant	Manchester Park	21527 W 98th Ter	Lenexa	66220	816-868-6797	30						30
-Hood	Erin	Manchester Park	22154 W 97th Ter	Lenexa	66220	913-907-6129	30			30			
-Tucker	Ryan	Manchester Park	21521 W 99th St	Lenexa	66220	913-225-6390	30			30			
-Rouse	Mike	Manchester Park	21715 W 99th Ter	Lenexa	66220	913-683-1238	25			25			
-Thelen	Adam	Manchester Park	21507 W. 99th Terr	Lenexa	66220	913-385-0705	20			20			
-Blanding	Mitch/Shelly	Manchester Park	21704 W. 100th Ter	Lenexa	66220	913-620-4292	20			20			
-Deneke	Erin	Manchester Park	9701 Millridge Dr	Lenexa	66220	913-233-9274	20						20
-Connor	Colleen	Manchester Park	22159 W 97th Ter	Lenexa	66220	913-209-3759	8				8		
-Setter-Prock	Monica	Manchester Park	21503 W 100th Ter	Lenexa	66220	913-687-0667	6			6			
-Power	Joy	Manchester Park	21516 W. 99th St	Lenexa	66220	913-962-7962	5			5			
-McGeary	Alice	Manchester Park	21609 W. 100th Ter	Lenexa	66220		4			4			
-Wixson	Carrie	Manchester Park	21947 W 97th Ter	Lenexa	66220	913-485-9685	4			4			
-Johnson 	Brad	Manchester Park	21703 W 99th Ter	Lenexa	66220	913-558-6018	2						2
-Mahoney	Mark 	Maple Brook	12460 S Quail Ridge Dr	Olathe	66061	913-433-6585	10						10
-Jewell	Bob	Mill Creek Farms	20925 W. 105th St	Olathe	66061	913-764-6288	50						50
-Hance	Victoria	Mill Creek Farms	21345 W 106th St	Olathe	66061	816-589-1107	50						50
-Jones	Jeff	Mill Creek Farms	10510 S Quail Ridge Drive	Olathe	66061	913-687-1815	20			20			
-Rigdon	Mark/Lynee	Mill Creek Farms	20865 W 106th St	Olathe	66061	816-215-3565	10			10			
-Kumar	Samir	Mill Creek Farms	10405 S Mockingbird Lane	Olathe	66061	913-961-2543	10			10			
-Kaminsky	Matt	Mill Creek Grande	11625 S. Walnut St	Olathe	66061	816-805-3828	210			210			
-Payne	Don	Mill Creek Grande	11620 S. Walnut St	Olathe	66061		150	150					
-Bailey	Carolyn/Larry	North Shore Estates	10309 S Oakcrest Lane	Olathe	66061	913-782-4170	150			150			
-Barmby	Gavin	North Shore Estates	27586 Highland Circle	Olathe	66061	913-645-5801	8						8
-Balderas	Lana	Northview	608 E. 125th Ter	Olathe	66061	913-215-0924	6				6		
-Kavila	Elijah	Northview	608 E. 125th Ter	Olathe	66061	913-375-7061	5	5					
-Krug	Jon	Northwood Trails	18830 W 116th St	Olathe	66061	913-709-9044	50						50
-Kaufman	Darin	Northwood Trails	18996 W 117th Ter	Olathe	66061	913-488-8434	30		30				
-Wren	Donna	Northwood Trails	11501 S Millview Rd	Olathe	66061		27					27	
-Scruton	Heather	Northwood Trails	19006 W. 117th Ter	Olathe	66061	913-406-5171	20			20			
-Smither	Trevor	Northwood Trails	19070 W 115th Ter	Olathe	66061	913-515-8418	20						20
-Hegarty	Denise	Northwood Trails	18623 W 117th St	Olathe	66061	913-484-7899	20						20
-Bichelmeyer	Julie	Northwood Trails	18503 W 114th St	Olathe	66061	913-400-4823	20						20
-Timmons	Chuck	Northwood Trails	19050 W. 115th Ter	Olathe	66061	913-403-6850	17						17
-Roller	Mary 	Northwood Trails	19020 W. 115th Ter	Olathe	66061	913-645-4583	15			15			
-Foxworthy	Michael	Northwood Trails	19005 W. 115th Ter	Olathe	66061	913-205-6938	15			15			
-Burton	Todd	Northwood Trails	18995 W 117th Ter	Olathe	66061	913-485-4068	10						10
-Prohaska 	Eileen	Northwood Trails	11442 S Millview Rd	Olathe	66061		10					10	
-Langdon	Beth	Northwood Trails	18404 W 114th St	Olathe	66061	913-269-6905	10			10			
-Maguire	Jim	Northwood Trails	18402 W 114th St	Olathe	66061	913-888-8652	10			10			
-Wolfe	Katie	Northwood Trails	18310 W 114th St	Olathe	66061	913-522-3188	10			10			
-McLaughlin	Sarah	Northwood Trails	11463 S Millview	Olathe	66061	913-220-8199	8			8			
-Webb	Trisha	Northwood Trails	11532 Sunset Dr.	Olathe	66061	913-438-3099	5				5		
-Kivett	Ann	Oak Park	10210 Goddard St	Overland Park	66214	913-529-9168	10			10			
-Ingles	Kathy	Oak Park  	10606 W 102nd St	Overland Park	66214	913-579-1056	10	10					
-Fabrey	Gloria	Oak Park Manor	11612 W. 101st Ter	Overland Park	66214	913-244-7136	5		5				
-Russell	Amy/Chuck	Palisade Park	16007 S. Avalon St.	Olathe	66062		10			10			
-Cenfetelli	Alyson	Persimmon Point	2353 W. Elizabeth St.	Olathe	66061	913-220-4493	10						10
-Stull	Julie	pick up					14	8					6
-Becker	Darin	pick up					13	13					
-Kuttler	Kyle	pick up					10						10
-Dockstader	JD	Prairie Brook	10830 S Hastings St	Olathe	66061	480-292-5033	35						35
-Murray	Brian	Prairie Brook	10865 S Barth Rd	Olathe	66061	913-972-3985	32			32			
-Bishop	Dawn	Prairie Brook	10860 S Barth Rd	Olathe	66061	816-805-0268	30			30			
-Cooper	Dana	Prairie Brook	10854 S Hastings St	Olathe	66061	913-980-3262	25			25			
-Chandler	Tim	Prairie Brook	10883 S Barth Rd	Olathe	66061	913-709-2772	16						16
-Manning	Jack	Prairie Brook	10872 S Barth Rd	Olathe	66061	913-268-7752	7						7
-Gomez	Dianne	Prairie Fields	6205 W. 76th Place	Prairie Village	66208	913-381-4748	10			10			
-Kruse	Barbara	Prairie Haven East	1081 N Logan St	Olathe	66061	913-568-2427	5			5			
-Weaver	Jim	Prairie Point	21282 W 107th Ter	Olathe	66061	913-609-3345	45			45			
-Conover	Chad	Prairie Point	20792 W 108th St	Olathe	66061	913-449-7352	30			30			
-Hudnut	Tony	Prairie Point	21153 W 108th St	Olathe	66061	913-387-9383	30						30
-Mance	Jason	Prairie Point	20794 W 107th Pl	Olathe	66061	913-904-8953	25			25			
-McCalmon	Clay	Prairie Point	20750 W 107th Pl	Olathe	66061	913-484-4450	20			20			
-Reyes	Armando	Prairie Point	10883 S Millbrook Lane	Olathe	66061	405-924-2614	20						20
-Pearson	Jacki	Prairie Point	21046 W 108th Ter	Olathe	66061	913-839-1560	20						20
-Holt	Amy	Prairie Point	21283 W 107th Pl	Olathe	66061	913-219-7672	15			15			
-Callahan	Buddy	Prairie Point	20788 W 108th St	Olathe	66061	901-229-3957	13			13			
-Hartegan	Janelle	Prairie Point	21123 W 107th Ter	Olathe	66061		10			10			
-Morris	Troy	Prairie Point	10897 S Millbrook Lane	Olathe	66061	913-530-0604	8			8			
-Morse	Don	Prairie Point	20795 W 108th St	Olathe	66061	816-260-1828	4			4			
-Vanderslice	Bev/Rick	Quivira Farms	12607 W 109th St	Overland Park	66210	913-608-5242	12			12			
-Marquez	Tammie	Ravencrest	10666 S. Emerald St	Olathe	66061	913-406-3424	10			10			
-Ocander	Shane	Ravenwood	12260 S Monroe St	Olathe	66061	913-221-8598	25						25
-Smith 	Greg	Ravenwood	12126 S Monroe St	Olathe	66061	913-205-5113	20						20
-Jones	Colby	Ravenwood	12240 S Clinton Court	Olathe	66061	816-674-6704	20						20
-Swift	Leslie	Ravenwood	21178 W 123rd St	Olathe	66061	913-957-9287	20						20
-Kenney	Corey/Jill	Ravenwood	21077 W 120th St	Olathe	66061	913-764-0613	10						10
-Hestand	Trisha	Ravenwood	12358 S Lincoln St	Olathe	66061	417-629-4635	8						8
-Davis	Susan	Ravenwood Place	12230 S Monroe St	Olathe	66061	913-593-9160	12						12
-Wilkinson	Michael	Ravenwood Place	12285 S Monroe St	Olathe	66061	913-522-5615	10						10
-White	Matt	Ravenwood Place	12215 S Monroe St Place	Olathe	66061	913-220-4757	5			5			
-Parks	Neli/Mark	Shadow Highlands	27051 W 108th St	Olathe	66061	913-530-6371	215			215			
-Meyer	Dave	Shadow Highlands	10755 S Oakcrest Lane	Olathe	66061	913-254-0802	100			100			
-Dohrman	Ginger	Shadow Highlands	10731 S. Cedar Niles Blvd.	Olathe	66061	913-780-9256	50			50			
-Justis	Gary	Southglen	11580 S Carbondale St	Olathe	66061	913-484-6016	150			150			
-Hartquist	Chase	Southglen	11470 S. Carbondale St.	Olathe	66061	785-249-3231	150			150			
-Tarvin	Sara	Southglen	11547 S Lewis Dr	Olathe	66061	913-461-8241	100						100
-Swinford	Wes	Southglen	24355 W 114th St	Olathe	66061	913-221-7815	100			100			
-Merriman	Dena	Southglen	11555 S Lewis Dr	Olathe	66061	913-313-9953	80						80
-North	Chris/Rachel	Southglen	11484 S. Wilder St	Olathe	66061	913-226-0196	70			70			
-Iodice	Merinda	Southglen	11562 S Carbondale St	Olathe	66061	913-219-7055	66						66
-Dumas	Lynn	Southglen	11539 S Lewis Dr	Olathe	66061	816-305-4528	65						65
-Sears	Joe	Southglen	11436 S. Wilder St	Olathe	66061	913-768-7430	61	6					55
-Bowman	Brenda	Southglen	11281 S Gander St	Olathe	66061	913-839-2552	60			60			
-Holsinger	Tavis	Southglen	23945 W 112th Ter	Olathe	66061	913-526-2151	50						50
-Sharpe	Matthew	Southglen	11574 S Carbondale St	Olathe	66061	913-764-5694	50			50			
-Stambaugh	Jon	Southglen	11383 S Gander St	Olathe	66061	913-638-7297	50			50			
-Claussen	Judd	Southglen	11705 S Barth Rd	Olathe	66061	913-927-2801	50			50			
-Rebne	Kristen/Nic	Southglen	11461 S Carbondale St	Olathe	66061	804-687-8966	42			42			
-Lamb	Charlie/Christina	Southglen	23950 W 112th Ter	Olathe	66061	913-909-0984	40			40			
-Brown	Curt/Brittany	Southglen	11306 S Cook	Olathe	66061	913-782-3867	40			40			
-Byrd	Bryan	Southglen	11457 S Carbondale St	Olathe	66061	512-775-1644	40			40			
-McGuire/Blow	Bridget/Clif	Southglen	24135 W 113th Ter	Olathe	66061	913-549-8743	40						40
-Evans	Rhett	Southglen	11373 S Gander St	Olathe	66061	785-424-0816	40						40
-Anselmi	Kent	Southglen	11443 S. Wilder St	Olathe	66061	913-390-8029	30			30			
-Waters	Rachelle	Southglen	11320 S. Cook St.	Olathe	66061	913-832-2919	30			30			
-Pavkov	Sarah	Southglen	11568 S Carbondale St	Olathe	66061	913-449-4273	30						30
-Butler	Pat	Southglen	23958 W 112th Ter	Olathe	66061	913-909-6455	25			25			
-Midyett	Lance	Southglen	11490 S. Wilder St	Olathe	66061	913-782-7033	20			20			
-LaTorella	Todd	Southglen	11455 S. Wilder St	Olathe	66061	913-390-8104	20			20			
-Nicodemus	Tracy	Southglen	11442 S. Wilder St	Olathe	66061	913-219-3855	20			20			
-Offill	Karen	Southglen	23985 W 112th St	Olathe	66061	913-439-0329	20						20
-Chadwick	Clint	Southglen	11546 S Sumac St	Olathe	66061	913-839-1249	20						20
-Mize	Tammy	Southglen	11478 S. Wilder St	Olathe	66061	913-397-8048	15			15			
-Midyett	Gary	Southglen	11490 S. Wilder St	Olathe	66061	913-782-7033	12			12			
-Grisolia	Sharon/Rob	Southglen	11561 S Carbondale St	Olathe	66061	602-793-3446	10						10
-Dettwiler	Neil	Southglen	11314 S Gander St	Olathe	66061	913-515-2326	10			10			
-Hockett	Scott	Stagecoach Meadows	1104 S Lennox Dr	Olathe	66062	913-558-4731	40			40			
-Kring	Tony	Stone Ridge Manor	8014 Hall St.	Lenexa	66219	913-234--5222	12	4					8
-Keiter	Drew	Stonehurst/The Cedars				913-707-7732	34		4	18	12		
-McGrain	Nick	Stoneview	10129 Theden Circle	Lenexa	66220	913-764-1429	25			25			
-Harper	Scott 	Stoneview	10234 Marion St	Lenexa	66220	913-488-1279	21						21
-Ware	Tim	Stoneview	10122 Theden Circle	Lenexa	66220	816-465-1556	20			20			
-Schaife	John	Stoneview	10232 Marion St	Lenexa	66220	913-782-4780	10						10
-Woodhead	Woody	Stoneview	10133 Theden Circle	Lenexa	66220		5						5
-Brown	Russell	Terrace Place	8709 W 131st Place	Overland Park	66213	913-897-6446	20			20			
-Rone	Chris	The Woods Of Hidden Valley	14108 W. 51st Court	Shawnee	66216	913-579-5643	26					20	6
-Rosner	Vanetta	Two Trails Duplexes	1207/1209 E. Cothrell	Olathe	66061	913-963-2949	6						6
-Marinakis	Dimitrios	Whispering Hills	21002 Bittersweet Dr	Lenexa	66220	913-226-4042	60						60
-Todd	Steve	Whispering Hills	20705 Mill Rd.	Lenexa	66220	913-530-3119	30			30			
-Cogswell	Leah	Woodland Creek	15676 S. Blackfoot St	Olathe	66062	913-208-0507	25	25					
-Haggerty	Brian	Woodland Hills Reserve	19849 W 116th Ter	Olathe	66061	816-651-7036	10						10
-Galimba	Jhunne	Woodland Hills Reserve	11796 S Longleg St	Olathe	66061	913-909-6852	10			10			
-Trecek	Michael	Woodland Hills Reserve	19788 W 116th Ter	Olathe	66061	913-221-3976	8			8			
-Pishny	Brendon	Woodland Hills Reserve	19686 W 116th Ter	Olathe	66061	913-269-8478	5			5			
-Poindexter	Brian	Woodland Hills Reserve	19677 W 116th Ter	Olathe	66061	913-669-2784	5			5			
-Freeman	David	Woodland Manor	10834 S. Belford St	Olathe	66061	913-375-6552	12			12			
-Bouwens	Shawn	Woodland Meadows	11669 S Chestnut St	Olathe	66061	913-369-5828	50			50			
-Thompson	Kenton	Woodland Meadows	11655 S Chestnut St	Olathe	66061		50	30		20			
-Royer	Rick	Woodland Meadows	20032 W 116th Court	Olathe	66061	913-393-4395	20	20					
-Baiza	Dan/Dee	Woodland Meadows	19984 W 116th Court	Olathe	66061	913-390-6104	20		20				
-Salmen	Lisa	Woodland Meadows	19930 W 117th Ter	Olathe	66061	913-764-6102	4		4				
-Savage	Greg	Woodland Reserve	20631 W. 88th St	Lenexa	66220	913-998-1034	70						70
-McCauley	Beverly		13105 W. 127th Place	Overland Park	66213	913-768-8284	100			100			
-Longley	Gloria		14715 S. Wyandotte Dr.	Olathe	66062	913-393-3832	60			60			
-Verhulst	Mark		805 Kansas City Rd	Olathe	66061	913-764-1656	50						50
-Verhulst	Steven		724 Wabash St	Olathe	66061	913-406-4817	50						50
-Mounkes	Charles		1527 W. Romany Court	Olathe	66061	913-742-1930	40						40
-Barker	Russell		14094 W 142nd St	Olathe	66062	913-440-9432	35						35
-Lennaccaro	John		15916 W. 152nd Terrace Place	Olathe	66062	913-216-6196	30						30
-Spykerman	Kevin		12718 W. 100th St	Lenexa	66215	913-221-7110	13			13			
-Ferneau	Brent		1139 E. Sheridan Bridge Lane	Olathe	66062	913-200-1723	12						12
-Wendland	Tammy		14943 S. Violet St.	Olathe	66061	913-534-1958	11			11			
-Pickett	Orin/Christa		14517 W. 94th Ter	Lenexa	66215	913-894-5628	11	8					3
-Selman	Kem		13330 W. 112th St	Overland Park	66210	913-469-9341	10			10			
-Bozzoli	Lisa		11951 S. Barth Rd.	Olathe	66061		10						10
-Scherrer	Mike/Jane		11460 S. Wilder St	Olathe	66061	913-782-6774	10	10					
-Brown	Rick		20007 W. 99th St	Lenexa	66220		10			10			
-Rone	Wendell		210 Glenview W	Lake Quivira	66217	913-631-7979	10						10
-Kline	Aaron		8303 Bridle Dale Cir	Lenexa	66220	913-209-5392	10	10					
-Ortman	Mardy		14708 S. Brougham	Olathe	66062	913-634-2132	10						10
-Pickett	Susan		12361 S Crest Dr.	Olathe	66061	785-410-3078	10	10					
-Brown	Scott/Susie		15271 W. 147th St.	Olathe	66062	913-710-1534	8				8		
-Peterman	Ken		731 N Somerset	Olathe	66062	773-883-9933	5				5		
-Hiesberger	Matt		316 S. Walker St	Olathe	66061	816-516-1052	5				5		
-Jin	Yun		19911 W. 99th St	Lenexa	66220	913-438-5147	5			5			
-Sparks	Jason		20648 W 107th Pl	Olathe	66061	913-687-0309	5						5
-Cunningham	W		20080 W 105th St	Olathe	66061	913-642-4705	5			5			
-Thompson	Jamie		1279 N. Lucy Montgomery Rd	Olathe	66061	218-838-5798	4		4				
-Grigsby	Penney		703 E Park St	Olathe	66061	913-829-6637	4		4				
-Garcia	Alma		915 N. Sunset Dr.	Olathe	66061	408-420-1712	1						1
+Index	PLAYER NAME: 	LAST NAME	FIRST NAME	SUBDIVISION	STREET ADDRESS	CITY	ZIP	PHONE	Total	Brown	Black	Cypress	Cedar	Red	Compost																						
+1	Cody Cost	Schultz	Mary/Jeff	Amber Hills Estates	15183 W. 154th St	Olathe	66062	913-449-3960	8	8																											
+2	Cody Cost	Cost	Dean	Amber Hills Estates	15180 W. 154th St	Olathe	66062	913-461-7512	30	30																											
+3	Blake Hearn	Burns	Michelle	Amber Hills Estates	15410 W. 154th Ter	Olathe	66062	913-481-5379	26		26						 																				
+4	Jake Herl	Johnson 	Chip	Arbor	17364 W 161st St	Olathe	66062	913-908-4958	5	5																											
+5	Jackson Butler	Veatch	Michelle	Arbor Creek	15172 W 153rd Ter	Olathe	66062	913-488-4096	4	4																											
+6	Kreg Herman	Martin	Kim	Arbor Creek	16091 S Summertree Lane	Olathe	66062	913-626-1931	5	5																											
+7	Conrad Kaminsky	Addington	Jennifer	Arbor Woods	23462 W. 124th St	Olathe	66061	913-530-4086	10	10																											
+8	Chase Franks	Ney	Meredith	Austin Meadows	20550 W125th Court	Olathe	66061	913-706-3360	10		10																										
+9	Joe Placek	Keil		Autumn Ridge	1800 W Fredrickson Dr	Olathe	66061		2				2																								
+10	Jack Rone	Vande Brake	Mike/Kate	Bradford Trails	13825 S. Mullen St	Olathe	66062	913-538-7186	12	12																											
+11	Jack Rone	Rosner	Vanetta	Bradford Trails	14424 W. 138th 	Olathe	66062	913-963-2949	4		4																										
+12	Jack Rone	Kollmeyer	Josh	Bradford Trails	13813 S. Mullen St	Olathe	66062	316-6191421	8		8																										
+13	Jack Rone	Rone	Brent	Bradford Trails	13809 S. Mullen St	Olathe	66062	913-209-9599	10		10																										
+14	Alex Baiza	Marcucci	Lauren	Briarwood	16350 W 138th Ter	Olathe	66062	913-593-7879	12		12																										
+15	Luc Wellman	Wellman	Vivian	Bridlewood Downs	2639 W Surrey St	Olathe	66061	913-839-3742	30				30																								
+16	Brooks Kennedy	Schwartz	Mike	Bridlewood Downs	318 Overlook St.	Olathe	66061	913-579-8178	25					25																							
+17	Ryan Andrew	Sykes	Jennifer	Brighton's Landing	11259 S Whitehall St	Olathe	66061	913-669-2872	10	10																											
+18	Colton Prock	Eggers	Patty	Brighton's Landing	11354 S Brownrdge St	Olathe	66061	913-829-2239	10	10																											
+19	Brayden Koch	Sykes	Jennifer	Brighton's Landing	11259 S Whitehall St	Olathe	66061	913-669-2872	40	40																											
+20	Ryan Andrew	Dechant	Crystal	Brighton's Landing	11278 S Whitehall St	Olathe	66061	913-526-8421	90	90																											
+21	Brayden Koch	Koch	Jennifer	Brighton's Landing	21032 W 114th Pl	Olathe	66061	918-629-0602	15		15																										
+22	Brayden Koch	LaChance	Tami	Brighton's Landing	21050 W 114th Pl	Olathe	66061	913-633-0915	35		35																										
+23	Ryan Andrew	Andrew	Wendy	Brighton's Landing	11290 S Whitehall St	Olathe	66061	913-780-2927	93		50		35	8																							
+24	Adrian Adell	Glasper-Adell	Tamara	Brighton's Landing Reserve	21190 W 112th Ter	Olathe	66061	913-484-9023	10					10																							
+25	Adrian Adell	Crane	Brian	Brighton's Landing Reserve	21162 W 112th Ter	Olathe	66061	816-812-8962	5						5																						
+26	Blake Hugunin	Hugunin	Shari	Brittany Brooke	17587 W. 111th Ter	Olathe	66061	913-710-0035	10		10																										
+27	Blake Hugunin	Hugunin	John	Brittany Brooke	17587 W. 111th Ter	Olathe	66061	913-710-0035	4				4																								
+28	Blake Hearn	Heller	Rick	Brittany Hills	11532 S. Penrose St	Olathe	66061	913-492-8310	20	20																											
+29	Jackson Nicodemus	Heller	Rick	Brittany Hills	11532 S. Penrose St	Olathe	66061	913-492-8310	4					4																							
+30	Kreg Herman	Tincher	Cindy	Brittany Yesteryear	1313 N Lucy Montgomery Way	Olathe	66061	913-219-8429	12	12																											
+31	MJ Ringstad	Ringstad	Lynette	Brookfield Park	1007 N Marion St	Olathe	66061	678-778-0032	71		50	21																									
+32	MJ Ringstad	Wacker 	Michael	Brookfield Park	1003 N Marion St	Olathe	66061	785-550-4017	4				4																								
+33	Charles Elvin	Eastland	Julie	Brookwood	8336 Twilight Lane	Lenexa	66219	913-963-3936	25					25																							
+34	Jake Wolfe	Knaust	Kelly	Canyon Creek	9645 Inspiration St	Lenexa	66227	913-634-0871	10	10																											
+35	Jared Mealman	Means	Chris	Canyon Creek	9723 Redbird St	Lenexa	66227	913-602-4660	40	40																											
+36	Kyle Winn	Winn	Keith	Cedar Brook	21465 W. 122nd St	Olathe	66061	816-807-7140	30	30																											
+37	Kreg Herman	Stith	Kim	Cedar Brooke	21451 W 121st St	Olathe	66061		10	10																											
+38	Ryan Mendoza	Wilson	Kim	Cedar Brooke	21469 W 121st St	Olathe	66061	913-645-7935	15	15																											
+39	Mason Sadler	Sadler	Shannon	Cedar Brooke	21412 W 119th Pl	Olathe	66061	816-352-3768	25	25																											
+40	Devin Prock	Schauf	Mickey	Cedar Brooke	12240 S Crest Dr	Olathe	66061	913-393-0540	60	60																											
+41	Weston Davis	Rima	Russell	Cedar Brooke	12249 S Crest Dr	Olathe	66061	913-233-9190	8		8																										
+42	Connor Boyd	Dehon	Lee	Cedar Brooke	21463 W 121st Ter	Olathe	66061	913-515-1399	30		30																										
+43	Connor Boyd	Boyd	Mike	Cedar Brooke	21480 W 119th Ter	Olathe	66061	785-691-6585	10			10																									
+44	Dalton Boyd	Boyd	Mike	Cedar Brooke	21480 W 119th Ter	Olathe	66061	785-691-6585	10			10																									
+45	Nathan Rouse	Barnhart	Bret	Cedar Brooke	21413 W 119th Pl	Olathe	66061	816-668-6413	12				12																								
+46	Kyle Winn	Winn	Kristy 	Cedar Brooke	21465 W. 122nd St	Olathe	66061	913-768-4708	30					30																							
+47	Michael Roland	Welsh	Nicolle	Cedar Creek	11582 S Sumac	Olathe	66061	913-488-9953	4	4																											
+48	Seth Evans	Ash	Scott	Cedar Creek	27200 W 107th St	Olathe	66061		5	5																											
+49	Dylan Vickers	Payne	David	Cedar Creek	10375 S Hollis Lane	Olathe	66061	913-375-0118	10	10																											
+50	Dylan Vickers	Ambur	Sonja	Cedar Creek	10380 S Hollis Lane	Olathe	66061	913-780-4668	10	10																											
+51	Grant Hall	Roberts	Sean	Cedar Creek	10601 S Glenview Lane	Olathe	66061	913-829-8868	15	15																											
+52	Connor Boyd	Richey	Patrick	Cedar Creek	24405 W 112th Ter	Olathe	66061	913-522-2244	20	20																											
+53	Conrad Kaminsky	Kaminsky	Linda	Cedar Creek	10235 S. Greentree Ct	Olathe	66061		26	26																											
+54	Dylan Vickers	Mascaux	Pascal	Cedar Creek	10405 S Hollis Lane	Olathe	66061	913-302-4391	30	30																											
+55	Jared Mealman	Mealman	Ron	Cedar Creek	26180 W Cedar Niles Circle	Olathe	66061	913-961-7050	40	40																											
+56	Dalton Boyd	Dehon	Jeff	Cedar Creek	26281 W Cedar Niles Circle	Olathe	66061	913-782-7619	40	40																											
+57	Grant Hall	Lester	Brian	Cedar Creek	26820 W 108th St 	Olathe	66061	913-593-9382	40	40																											
+58	Jake Herl	King	Bruce	Cedar Creek	10365 S Oakcrest	Olathe	66061	913-961-1132	50	50																											
+59	Dalton Boyd	Henoch	Rex/Lisa	Cedar Creek	26431 W 110th Ter	Olathe	66061	913-393-2049	50	50																											
+60	Blake Hearn	Wall	Janet	Cedar Creek	26320 W. Cedar Niles Cir	Olathe	66061	913-710-2677	55	55																											
+61	Chase Hartquist	Bordenave	Elizabeth	Cedar Creek	10124 S. Shadow Circle	Olathe	66061		75	75																											
+62	Brayden Koch	Shiever	Trish	Cedar Creek	24761 W. 103rd Ter	Olathe	66061	913-956-8307	5		5																										
+63	Dylan Vickers	Shiever	Trish	Cedar Creek	24761 W. 103rd Ter	Olathe	66061	913-956-8508	5		5																										
+64	Jackson Nicodemus	Shiever	Trish	Cedar Creek	24761 W. 103rd Ter	Olathe	66061	913-956-8508	5		5																										
+65	Mitch Midyett	Shiever	Trish	Cedar Creek	24761 W. 103rd Ter	Olathe	66061	913-956-6508	5		5																										
+66	Dylan Vickers	McNair	Joe	Cedar Creek	10350 S Hollis Lane	Olathe	66061	913-568-8366	6		6																										
+67	Dylan Vickers	Vickers	Wes	Cedar Creek	10340 S Hollis Lane	Olathe	66061	281-839-6609	12		12																										
+68	Alex Carter	Carter	Alex	Cedar Creek	26930 W 107th St	Olathe	66061	913-593-7295	35		20				15																						
+69	Seth Evans	Kimball	Scott/Amy	Cedar Creek	11195 S Glenview Lane	Olathe	66061	913-839-3982	40		40																										
+70	Alex Henige	Henige	Lisa	Cedar Creek	11648 S Lewis Dr	Olathe	66061	913-839-8435	50		50																										
+71	Grant Hall	Hall	Greg	Cedar Creek	26565 W 106th Ter	Olathe	66061	913-526-3792	50		50																										
+72	Blake Hearn	LaVoy	James 	Cedar Creek	26694 W Greentree Court	Olathe	66061	913-568-3116	50		50																										
+73	Ryan Brzon	Brzon	Chris	Cedar Creek	10369 S Highland Lane	Olathe	66061	913-221-2982	75		75																										
+74	Grant Hall	Johnson 	Paul	Cedar Creek	26575 W 106th Ter	Olathe	66061	913-780-6583	10			10																									
+75	Matt Vanderslice	Ochsner	Jay/Amy	Cedar Creek	11371 S. Parish St	Olathe	66061	913-484-0538	20				20																								
+76	Jared Mealman	Pirie	Chuck	Cedar Creek	26201 W Cedar Niles Circle	Olathe	66061	816-509-4900	50					50																							
+77	Colton Prock	Ost	Kevin	Cedar Glen	26300 W 111th Ter	Olathe	66061	816-536-8311	42	42																											
+78	Caleb Frazier	Bruning	David	Cedarbrooke	21312 W. 119th Place	Olathe	66061		15	15																											
+79	Kyle Winn	DeAngelis	Michelle	Cedarbrooke	21457 W. 121st Ter	Olathe	66061		30	30																											
+80	Caleb Frazier	Lefler	Sean	Cedarbrooke	21212 W. 119th Place	Olathe	66061		10		10																										
+81	Brooks Kennedy	Harris	Kelly	Cedarbrooke	21235 W. 120th Ter	Olathe	66061	913-523-3568	10		10																										
+82	Caleb Frazier	Bayne	Chris	Cedarbrooke	21242 W. 119th Place	Olathe	66061	913-707-8811	14		14																										
+83	Caleb Frazier	Meyer	David	Cedarbrooke	21252 W. 119th Place	Olathe	66061	816-598-0620	25		25																										
+84	Caleb Frazier	Thompson	Jim	Cedarbrooke	21243 W. 119th Place	Olathe	66061	913-768-4420	6				6																								
+85	Weston Davis	Davis	Terry	College Park Estates	10913 W 115th Ter	Overland Park	66210	913-909-5881	10			10																									
+86	Jackson Novacek	Buehne	Nancy	Country Hill West	8941 Tomashaw	Lenexa	66219	913-530-1616	12	12																											
+87	Carter Brown	Egger	Jill	Crimson Ridge of Maplewood	4607 Chouteau	Shawnee	66226	913-991-8718	50			50																									
+88	Blake Hugunin	Olmedo	Robert	Devonshire	16613 W. Indian Creek	Olathe	66062	913-636-7198	5					5																							
+89		Jarvis	Britni	Eagle Crest	19617 W 105th Ter	Olathe	66061	913-484-6273	10		10																										
+90	Blake Hearn	Kabler	Holly	Eagles Crest	19655 W. 105th St	Olathe	66061	913-669-5779	12	12																											
+91	Jake Herl	Herl	Stephanie	Fairfield Manor	13304  W 124th St	Overland Park	66213	913-522-1959	30	30																											
+92	Nick Burchard	McGlinn	Brian	Fairway Hills	13407 W 74th St	Shawnee	66216	913-638-8719	10		10																										
+93	Brooks Kennedy	East	Jan	Fairway Woods	12609 Bradshaw	Overland Park	66213	816-809-9670	10		10																										
+94	Kreg Herman	Hall	Carolyn	Fairway Woods	13114 W 125th Ter	Overland Park	66213	913-814-0583	10			10																									
+95	Joe Placek	Grimes	Mark	Falcon Meadows	21118 W 98th St	Lenexa	66220	913-384-6326	4	4																											
+96	Joe Placek	Dickey	Emily	Falcon Meadows	21324 W 98th Pl	Lenexa	66220	913-839-0211	4	4																											
+97	Matt Vanderslice	Cooper	Jeff	Falcon Meadows	21100 W 98th St	Lenexa	66220	913-488-5255	6	6																											
+98	Brooks Kennedy	Bury	Marla	Falcon Meadows	9731 Marion St.	Lenexa	66220	816-820-0648	18		10				8																						
+99	Brooks Kennedy	Ferneau	Don	Falcon Meadows	21408 W. 98th St	Lenexa	66220	515-480-1350	12		12																										
+100	Joe Placek	Johnson 	Mark	Falcon Meadows	21314 W 98th St	Lenexa	66220	785-640-6553	20			20																									
+101	Joe Placek	Rist	Bruce	Falcon Meadows	21023 W 98th St	Lenexa	66220	913-839-4177	10				10																								
+102	Brogan Kivett	Cowan	Cliff	Falcon Point	19507 W 97th St	Lenexa	66220	913-484-4861	20		20																										
+103	Grayson Jones	Sobczyk	Brian	Falcon Pointe	19624 W 97th St	Lenexa	66220	913-908-0099	22	10		12																									
+104	Grant Hall	Winter	Bill	Falcon Pointe	19514 W 95th Ter	Lenexa	66220	913-782-3220	25	25																											
+105	Grayson Jones	Howe	Brian/Katie	Falcon Pointe	19627 W 97th St	Lenexa	66220	913-652-6574	6		6																										
+106	Grayson Jones	Peterson	Jeff	Falcon Pointe	19638 W 97th St	Lenexa	66220	520-403-6330	40					40																							
+107	Skyler King	Plas	Cheryl	Falcon Ridge	9831 Vista Dr.	Lenexa	66220	913-780-1804	2	2																											
+108	Joe Placek	Rahardja	Lin	Falcon Ridge	9655 Deer Run St	Lenexa	66220	913-338-2775	4	4																											
+109	Gabe Barfety	Riederer	Debbie	Falcon Ridge	9503 Falcon Ridge Dr	Lenexa	66220	913-226-9555	10	10																											
+110	Skyler King	Aldridge	Dennis	Falcon Ridge	9832 Vista Dr.	Lenexa	66220	913-530-7824	10	10																											
+111	Tyler McCoach	Mayo	Tina	Falcon Ridge	9121 Redbud Lane	Lenexa	66220	913-829-9844	15	15																											
+112	Tyler McCoach	Boeh	Kelly	Falcon Ridge	20203 W 93rd St	Lenexa	66220	913-579-3827	20	20																											
+113	Matt Vanderslice	McFarland	Amy 	Falcon Ridge	20611 W 96th St	Lenexa	66220	913-390-6003	20	20																											
+114	Andrew Tracy	Bradley	Gail	Falcon Ridge	9243 Falcon Ridge Dr	Lenexa	66220	913-768-1276	24	24																											
+115	Kyle Winn	Kickbusch	Jay	Falcon Ridge	20818 W. 94th St	Lenexa	66220	913-707-9158	30	30																											
+116	Gabe Barfety	Bandy	Bridget 	Falcon Ridge	20219 W 93rd St	Lenexa	66220	913-709-2882	10		10																										
+117	Tyler McCoach	Coad	Stacey	Falcon Ridge	20410 W 92nd Ter	Lenexa	66220	913-579-2734	28		28																										
+118	Andrew Tracy	Holderman	Jenifer	Falcon Ridge	20211 W 93rd St	Lenexa	66220	620-203-0368	35		35																										
+119	Kreg Herman	DeMars	Debbie	Falcon Ridge	9612 Vista Dr	Lenexa	66220	913-825-1289	50		50																										
+120	Trevor Adam	Adam	Diane	Falcon Ridge	9614 Vista Dr	Lenexa	66220	913-909-5244	60						60																						
+121	Andrew Tracy	Knight 	Doug/Leigh Anne	Falcon Ridge Estates	9705 Sunset Circle	Lenexa	66220	913-396-3214	5		5																										
+122	Joe Placek	Eiterich	Courtney	Falcon Ridge Estates	9746 Sunset Circle	Lenexa	66220	913-522-9423	40					40																							
+123	Joe Placek	Zhen	Eric	Falcon Ridge Meadows	21119 N 98th St	Lenexa	66220	913-220-7338	4	4																											
+124	Skyler King	McCormick 	Kristi	Falcon Ridge Villas	19929 W. 99th St	Lenexa	66220	913-440-4064	10	10																											
+125	Skyler King	Jones	AR/Julie	Falcon Ridge Villas	9835 Vista Dr.	Lenexa	66220	816-916-6960	20		20																										
+126	Skyler King	Hart	Maleah	Falcon Ridge Villas	9838 Chestnut	Lenexa	66220	913-219-8745	5				5																								
+127	Skyler King	Dorothy	James/Barbara	Falcon Ridge Villas	9839 Vista Dr.	Lenexa	66220	630-670-3907	3					3																							
+128	Blake Hearn	Lichtenauer	Jim	Falcon Valley	19621 W 98th Terr	Lenexa	66220	913-626-6565	6	2		4																									
+129	Brogan Kivett	Parsons	Lisa	Falcon Valley	19609 W 97th Ter	Lenexa	66220	913-302-0508	4	4																											
+130	Charles Elvin	Elvin	Rachel 	Falcon Valley	18933 W 100th St	Lenexa	66220	913-568-7074	6	6																											
+131	Charles Elvin	Becker	Michelle	Falcon Valley	10030 Warwick St	Lenexa	66220		8	8																											
+132	Grayson Jones	Alexander	Jay	Falcon Valley	18629 W 97th Ter	Lenexa	66220	913-302-9512	10	10																											
+133	Brogan Kivett	Stucky	Erin	Falcon Valley	19618 W 97th Ter	Lenexa	66220	913-322-9419	20	20																											
+134	Brogan Kivett	Kivett	Greg	Falcon Valley	19610 W 97th Ter	Lenexa	66220	816-985-7260	25	25																											
+135	Steven Elvin	Wessel	Mike/Shara	Falcon Valley	18914 W. 100th St	Lenexa	66220	913-486-0601	60	60																											
+136	Brooks Kennedy	Johns	Becky	Falcon Valley	18906 W. 97th Ter	Lenexa	66220	913-636-0826	120	120																											
+137	Charles Elvin	Bennudriti	Lisa	Falcon Valley	18939 W 100th St	Lenexa	66220		6		6																										
+138	Koby Werner	Schellhardt	Tom	Falcon Valley	19621 W 99th St	Lenexa	66220	319-290-2348	10		10																										
+139	Andrew Tracy	Greinert	Thomas	Falcon Valley	18915 W 98th Ter	Lenexa	66220		75		75																										
+140	Charles Elvin	Umscheid	Gary	Falcon Valley	18933 W 100th St	Lenexa	66220		4			4																									
+141	Jackson Novacek	Bachkora	Tom	Forest Glen	12716 W 138th St	Overland Park	66221	913-402-8131	12		12																										
+142	Jackson Novacek	Novacek	Jay	Forest Glen	12705 W 138th St	Overland Park	66221	913-207-2609	30		30																										
+143	Connor Delong	Delong	Wes	Forestview	23812 W 124th Court	Olathe	66061	913-254-0655	10	10																											
+144	Connor Delong	Bass	Jason	Forestview	23720 W 125th St	Olathe	66061	913-744-8072	30	30																											
+145	Connor Delong	Sparks	Vince	Forestview	23816 W 124th Court	Olathe	66061	913-638-4792	3		2				1																						
+146	Connor Delong	McGavran	Marcie	Forestview	23866 W 125th St	Olathe	66062	913-579-1937	10		10																										
+147	Dylan Werner	Buckley	Kim	Forestview	24131 W. 121st St	Olathe	66061	913-206-3011	20		20																										
+148	Connor Delong	Elder	Rob	Forestview	23808 W 124th Court	Olathe	66061	913-787-5861	30		30																										
+149	Koby Werner	Hopkins	Melissa	Forestview	23870 W 121st St	Olathe	66061	720-771-8245	5				5																								
+150	Charles Elvin	Wiltanger	Matt	Forestview Estates	12053 S Barth Rd	Olathe	66061	913-620-0754	21		21																										
+151	Connor Delong	Denning	Nick	Forestview Meadows	23684 W 125th St	Olathe	66061	816-401-1451	20	20																											
+152	Charlie Pfister	Owen	Connie 	Foxfield  	12207 Gillette St	Overland Park	66213	913-568-3703	5		5																										
+153	Koby Werner	Gorman	Katie	Foxfield Village	20926 W 117th St	Olathe	66061	913-961-4767	2	2																											
+154	Dylan Werner	Riddle	Kim	Foxfield Village	20944 W. 117th St	Olathe	66061	913-219-3232	10	10																											
+155	Dylan Werner	Werner	Shannon	Foxfield Village	20932 W. 117th St	Olathe	66061	913-744-1644	8		8																										
+156	Dylan Werner	Hill	Brian	Foxfield Village	20933 W. 117th St	Olathe	66061	913-488-4105	10			10																									
+157	Isaiah Sutherland	Steele	Katie	Grayson Place	21633 W 122nd St	Olathe	66061		6	6																											
+158	Isaiah Sutherland	Sutherland	Tracy/John	Grayson Place	21633 W 122nd St	Olathe	66061	913-207-1814	10	10																											
+159	Connor Boyd	Wallace	Kelli	Grayson Place	12161 S Valley Rd	Olathe	66061	913-522-1934	16	16																											
+160	Dalton Boyd	Staton	David	Grayson Place	12169 South Valley Rd	Olathe	66061	816-605-3219	20	20																											
+161	Isaiah Sutherland	Combs	Joyce	Grayson Place	12160  S Valley Rd	Olathe	66061	913-206-6247	5		5																										
+162	Connor Boyd	Berrie	Dustin	Grayson Place	12148 S Valley Rd	Olathe	66061	712-898-0998	10		10																										
+163	Connor Boyd	Harris	Scott/Jennifer	Grayson Place	12177 S Valley Rd	Olathe	66061	913-955-2471	10		10																										
+164	Isaiah Sutherland	Wilson	Justin	Grayson Place	21633 W 122nd St	Olathe	66061		10		10																										
+165	Isaiah Sutherland	Born	Wendy	Grayson Place	12198 S Prairie Creek Pkwy	Olathe	66061		25		25																										
+166	Connor Boyd	Boyd	Ken 	Grayson Place	21825 W 121st Pl	Olathe	66061	913-488-9000	50		50																										
+167	Isaiah Sutherland	Kossman	John	Grayson Place	21633 W 122nd St	Olathe	66061		6					6																							
+168	Jack Rone	Hynek	Dan	Green Springs	14150 W. 146th Ter	Olathe	66062	913-269-7674	15	15																											
+169	Michael Roland	Windsor	Amy	Havencroft	1401 E Cambridge St	Olathe	66062	913-390-5687	20						20																						
+170	Jamison Baiza	Welland	Scott	Heatherstone	13723 W 121st	Olathe	66062	913-397-9132	10				10																								
+171	Sterling Swinford	Sheiver	Tricia	Hidden Lakes	24761 W. 103rd Ter	Olathe	66061	913-956-8307	5		5																										
+172	Jack Parks	Shiever	Trish	Hidden Lakes	24761 W. 103rd Ter	Olathe	66061	913-956-8508	6		6																										
+173	Andrew Tracy	Teeple	Keith	Hirning Woods	8801 Hirning Rd	Lenexa	66220	913-579-5939	50			50																									
+174	Chase Franks	Stubbolo	Kimberly	Hunter's Creek	12366 S Parker Ter	Olathe	66061	913-202-9155	2	2																											
+175	Kreg Herman	Jaeger	Deb 	Hunter's Creek	12368 S Clinton St	Olathe	66061	913-710-6613	5	5																											
+176	Chase Franks	Madison	Gina	Hunter's Creek	20941 W 123rd Ter	Olathe	66061	913-634-5963	4		4																										
+177	Chase Franks	Franks	Michael	Hunter's Creek	12358 S Parker Ter	Olathe	66061	512-497-8287	10		5			5																							
+178	Ryan Mendoza	Mendoza	Brenda	Hunter's Creek	12325 S Clinton St	Olathe	66061	913-568-9358	23		6		17																								
+179	Chase Franks	Stovall	Russell	Hunter's Creek	12362 S Parker Ter	Olathe	66061	913-764-4539	15		15																										
+180	Chase Franks	Preston	Brian	Hunter's Creek	12342 S Crest Dr	Olathe	66061	913-390-0368	30		30																										
+181	Chase Franks	Schmidt	LeaAnn	Hunter's Creek	12351 S Parker	Olathe	66061	913-461-8352	2				2																								
+182	Chase Franks	Eighme	Lance	Hunter's Creek	12394 S Crest Dr	Olathe	66061	913-961-0373	3					3																							
+183	Chase Franks	Robinson	Ryan	Hunter's Creek 	12361 S Crest Dr.	Olathe	66061	785-341-1087	8		4		4																								
+184	Conrad Kaminsky	Ellis	Brigette	Hunter's Creek Estates	20974 W. 125th St	Olathe	66061	913-530-0860	12	12																											
+185	Jackson Butler	Saves	Christine	Hunter's Creek Estates	12443 S Parker Ter	Olathe	66061	913-829-4924	35				35																								
+186	Ryan Mendoza	Inman	Kelly	Hunter's Creek Highlands	12343 S. Clinton St	Olathe	66061	816-912-6884	10					10																							
+187	Jackson Novacek	Novacek	Patty	Kensington Valley	15130 Melrose Drive	Overland Park	66213		20	20																											
+188	Jackson Butler	McEachen	Neil	Knightsbrooke	13001 Noland St	Overland Park	66213	913-722-4258	20		20																										
+189	Jack Parks	Winne	Jim	Leawood	8520 Belinder Rd	Leawood	66206	913-593-8200	20		20																										
+190	Joe Placek	Howard	Becky	Manchester Park	9733 Prairie Creek Rd	Lenexa	66220	913-220-4487	2	2																											
+191	Colton Prock	McGeary	Alice	Manchester Park	21609 W 100th Ter	Lenexa	66220	913-269-3537	3	3																											
+192	Quinn Todd	McGeary	Alice	Manchester Park	21609 W. 100th Ter	Lenexa	66220		4	4																											
+193	Devin Prock	Wixson	Carrie	Manchester Park	21947 W 97th Ter	Lenexa	66220	913-485-9685	4	4																											
+194	Mitch Midyett	Power	Joy	Manchester Park	21516 W. 99th St	Lenexa	66220	913-962-7962	5	5																											
+195	Colton Prock	Setter-Prock	Monica	Manchester Park	21503 W 100th Ter	Lenexa	66220	913-687-0667	6	6																											
+196	Devin Prock	Setter-Prock	Monica	Manchester Park	21503 W 100th Ter	Lenexa	66220	913-687-0667	6	6																											
+197	Gabe Barfety	Wiley	Alison	Manchester Park	21603 W 99th St	Lenexa	66220		7	7																											
+198	Tyler McCoach	Lamfers	Kent 	Manchester Park	21509 W 100th St	Lenexa	66220	913-393-2827	10	10																											
+199	Gabe Barfety	McElderry	Kate	Manchester Park	22040 W 98th St	Lenexa	66220		12	12																											
+200	Charlie Pfister	Green	Rhonda	Manchester Park	9817 Prairie Creek Rd	Lenexa	66220	913-433-4496	21	20					1																						
+201	Quinn Todd	Thelen	Adam	Manchester Park	21507 W. 99th Terr	Lenexa	66220	913-385-0705	20	20																											
+202	Quinn Todd	Blanding	Mitch/Shelly	Manchester Park	21704 W. 100th Ter	Lenexa	66220	913-620-4292	20	20																											
+203	Carter Brown	Gaudreau	Natalie	Manchester Park	21722 W 98th St	Lenexa	66220	913-708-1698	20	20																											
+204	Tyler McCoach	Junk	Pam	Manchester Park	21500 W 100th St	Lenexa	66220	913-908-2432	25	25																											
+205	Nathan Rouse	Rouse	Mike	Manchester Park	21715 W 99th Ter	Lenexa	66220	913-683-1238	25	25																											
+206	Nathan Rouse	Tucker	Ryan	Manchester Park	21521 W 99th St	Lenexa	66220	913-225-6390	30	30																											
+207	Carter Brown	Brown	Dawn	Manchester Park	21718 W 98th St	Lenexa	66220	913-302-6744	30	30																											
+208	Devin Prock	Hood	Erin	Manchester Park	22154 W 97th Ter	Lenexa	66220	913-907-6129	30	30																											
+209	Nathan Rouse	Maurice	Scott	Manchester Park	21520 W 99th St	Lenexa	66220	913-322-1489	70	70																											
+210	Jackson Butler	Johnson 	Brad	Manchester Park	21703 W 99th Ter	Lenexa	66220	913-558-6018	2		2																										
+211	Colton Prock	McGhee	Brad	Manchester Park	21515 W 100th Ter	Lenexa	66220	913-706-3326	4		4																										
+212	Gabe Barfety	Lockyear	Jennifer	Manchester Park	22048 W 97th Ter	Lenexa	66220	913-226-7172	8		8																										
+213	Koby Werner	Deneke	Erin	Manchester Park	9701 Millridge Dr	Lenexa	66220	913-233-9274	20		20																										
+214	Gabe Barfety	Miller	Hank	Manchester Park	9713 Prairie Creek Rd	Lenexa	66220	913-732-2692	20		20																										
+215	Gabe Barfety	Self	Greg	Manchester Park	21503 W 99th Ter	Lenexa	66220	913-707-4509	25		25																										
+216	Nick Burchard	Rise 	Brant	Manchester Park	21527 W 98th Ter	Lenexa	66220	816-868-6797	30		30																										
+217	Gabe Barfety	Dodds	Tim	Manchester Park	21510 W 98th Ter	Lenexa	66220	913-485-9613	33		33																										
+218	Gabe Barfety	Boler	Ryan	Manchester Park	21710 W 100th St	Lenexa	66220	620-704-4009	45		45																										
+219	Jake Wolfe	Wolfe	Kurt	Manchester Park	21713 W 99th St	Lenexa	66220	816-896-0960	50		50																										
+220	Gabe Barfety	Letourneau	Kent	Manchester Park	21506 W 98th Ter	Lenexa	66220		10			10																									
+221	Tyler McCoach	Moore	Ryan	Manchester Park	21515 W 98th Ter	Lenexa	66220	913-254-7425	40			40																									
+222	Carter Brown	Smajda	Michelle	Manchester Park	9809 Prairie Creek Rd	Lenexa	66220	913-980-7518	20				20																								
+223	Grayson Jones	Connor	Colleen	Manchester Park	22159 W 97th Ter	Lenexa	66220	913-209-3759	8					8																							
+224	Weston Davis	Mahoney	Mark 	Maple Brook	12460 S Quail Ridge Dr	Olathe	66061	913-433-6585	10		10																										
+225	Bennett Jones	Kumar	Samir	Mill Creek Farms	10405 S Mockingbird Lane	Olathe	66061	913-961-2543	10	10																											
+226	Bennett Jones	Rigdon	Mark/Lynee	Mill Creek Farms	20865 W 106th St	Olathe	66061	816-215-3565	10	10																											
+227	Bennett Jones	Jones	Jeff	Mill Creek Farms	10510 S Quail Ridge Drive	Olathe	66061	913-687-1815	20	20																											
+228	Jackson Nicodemus	Jewell	Bob	Mill Creek Farms	20925 W. 105th St	Olathe	66061	913-764-6288	50		50																										
+229	Bennett Jones	Hance	Victoria	Mill Creek Farms	21345 W 106th St	Olathe	66061	816-589-1107	50		50																										
+230	Conrad Kaminsky	Kaminsky	Matt	Mill Creek Grande	11625 S. Walnut St	Olathe	66061	816-805-3828	210	210																											
+231	Conrad Kaminsky	Payne	Don	Mill Creek Grande	11620 S. Walnut St	Olathe	66061		150			150																									
+232	Brayden Koch	Bersted	Mark	Mill Creek Grande	11770 S Pine St	Olathe	66061	913-271-7164	40					40																							
+233	Jackson Long	Bailey	Carolyn/Larry	North Shore Estates	10309 S Oakcrest Lane	Olathe	66061	913-782-4170	150	150																											
+234	Jackson Long	Barmby	Gavin	North Shore Estates	27586 Highland Circle	Olathe	66061	913-645-5801	8		8																										
+235	Elijah Kavila	Kavila	Elijah	Northview	608 E. 125th Ter	Olathe	66061	913-375-7061	5			5																									
+236	Elijah Kavila	Balderas	Lana	Northview	608 E. 125th Ter	Olathe	66061	913-215-0924	6					6																							
+237	Alex Baiza	McLaughlin	Sarah	Northwood Trails	11463 S Millview	Olathe	66061	913-220-8199	8	8																											
+238	Jake Wolfe	Wolfe	Katie	Northwood Trails	18310 W 114th St	Olathe	66061	913-522-3188	10	10																											
+239	Jake Wolfe	Maguire	Jim	Northwood Trails	18402 W 114th St	Olathe	66061	913-888-8652	10	10																											
+240	Jake Wolfe	Langdon	Beth	Northwood Trails	18404 W 114th St	Olathe	66061	913-269-6905	10	10																											
+241	Blake Hearn	Foxworthy	Michael	Northwood Trails	19005 W. 115th Ter	Olathe	66061	913-205-6938	15	15																											
+242	Blake Hearn	Roller	Mary 	Northwood Trails	19020 W. 115th Ter	Olathe	66061	913-645-4583	15	15																											
+243	Dylan Werner	Scruton	Heather	Northwood Trails	19006 W. 117th Ter	Olathe	66061	913-406-5171	20	20																											
+244	Kade Kaufman	Burton	Todd	Northwood Trails	18995 W 117th Ter	Olathe	66061	913-485-4068	10		10																										
+245	Blake Hearn	Timmons	Chuck	Northwood Trails	19050 W. 115th Ter	Olathe	66061	913-403-6850	17		17																										
+246	Sam Verhulst	Bichelmeyer	Julie	Northwood Trails	18503 W 114th St	Olathe	66061	913-400-4823	20		20																										
+247	Nick Hegarty	Hegarty	Denise	Northwood Trails	18623 W 117th St	Olathe	66061	913-484-7899	20		20																										
+248	Blake Hearn	Thomas	Michaele	Northwood Trails	19045 W 115th Ter	Olathe	66061	816-588-6429	20		20																										
+249	Blake Hearn	Smither	Trevor	Northwood Trails	19070 W 115th Ter	Olathe	66061	913-515-8418	20		20																										
+250	Jackson Novacek	Krug	Jon	Northwood Trails	18830 W 116th St	Olathe	66061	913-709-9044	50		50																										
+251	Kade Kaufman	Kaufman	Darin	Northwood Trails	18996 W 117th Ter	Olathe	66061	913-488-8434	30				30																								
+252	Blake Hearn	Webb	Trisha	Northwood Trails	11532 Sunset Dr.	Olathe	66061	913-438-3099	5					5																							
+253	Trevor Adam	Prohaska 	Eileen	Northwood Trails	11442 S Millview Rd	Olathe	66061		10						10																						
+254	Trevor Adam	Wren	Donna	Northwood Trails	11501 S Millview Rd	Olathe	66061		27						27																						
+255	Brogan Kivett	Kivett	Ann	Oak Park	10210 Goddard St	Overland Park	66214	913-529-9168	10	10																											
+256	Jackson Butler	Ingles	Kathy	Oak Park  	10606 W 102nd St	Overland Park	66214	913-579-1056	10			10																									
+257	Quinn Todd	Fabrey	Gloria	Oak Park Manor	11612 W. 101st Ter	Overland Park	66214	913-244-7136	5				5																								
+258	Brooks Kennedy	Russell	Amy/Chuck	Palisade Park	16007 S. Avalon St.	Olathe	66062		10	10																											
+259	Jake Herl	Caldwell	Jenn 	Parkhill Manor	15312 S Alcan	Olathe	66062	913-963-4234	20	20																											
+260	Kreg Herman	Ginavan	Barbie	Persimmon Point	2286 W Hazelwood	Olathe	66061		8		8																										
+261	Blake Hugunin	Cenfetelli	Alyson	Persimmon Point	2353 W. Elizabeth St.	Olathe	66061	913-220-4493	10		10																										
+262	Matthew Clark	Slifer	Scott/Debby	Prairie Brook	24166 W 109th Ter	Olathe	66061	913-208-6976	8	8																											
+263	Tyler McCoach	Rahe	Susan	Prairie Brook	10882 S Carbondale St	Olathe	66061	913-940-3302	10	10																											
+264	Charlie Pfister	McCune	Brent	Prairie Brook	10890 S Hastings	Olathe	66061	913-238-8000	10	10																											
+265	Tyler McCoach	May	Becky	Prairie Brook	24394 W 108th Ter	Olathe	66061	913-782-3375	10	10																											
+266	Tyler McCoach	Kendrick	David	Prairie Brook	24317 W 108th Ter	Olathe	66061	913-219-8543	15	15																											
+267	Charlie Pfister	Ross	Ben	Prairie Brook	10859 S Barth Rd	Olathe	66061	913-579-4795	20	20																											
+268	Charlie Pfister	Avey	Dustin	Prairie Brook	24278 W 109th Ter	Olathe	66061		20	20																											
+269	Quinn Stambaugh	Cooper	Dana	Prairie Brook	10854 S Hastings St	Olathe	66061	913-980-3262	25	25																											
+270	Jackson Butler	Bishop	Dawn	Prairie Brook	10860 S Barth Rd	Olathe	66061	816-805-0268	30	30																											
+271	Cole Manning	Murray	Brian	Prairie Brook	10865 S Barth Rd	Olathe	66061	913-972-3985	32	32																											
+272	Cole Manning	Manning	Jack	Prairie Brook	10872 S Barth Rd	Olathe	66061	913-268-7752	7		7																										
+273	Charlie Pfister	Brooker	Megan	Prairie Brook	10907 S Barth Rd	Olathe	66061	785-747-7298	8		8																										
+274	Charlie Pfister	Dorko	Cathy	Prairie Brook	10889 S Barth Rd	Olathe	66061	913-638-3675	15		15																										
+275	Cole Manning	Chandler	Tim	Prairie Brook	10883 S Barth Rd	Olathe	66061	913-709-2772	16		16																										
+276	Seth Evans	Dockstader	JD	Prairie Brook	10830 S Hastings St	Olathe	66061	480-292-5033	35		35																										
+277	Charlie Pfister	Pfister 	Trey	Prairie Brook	10901 S Barth Rd	Olathe	66061	913-839-2694	50		50																										
+278	Blake Hearn	Gomez	Dianne	Prairie Fields	6205 W. 76th Place	Prairie Village	66208	913-381-4748	10	10																											
+279	Cody Cost	Kruse	Barbara	Prairie Haven East	1081 N Logan St	Olathe	66061	913-568-2427	5	5																											
+280	Cody Marlette	Roth	Debbie	Prairie Highland	14469 S Shadow St	Olathe	66061	913-449-0941	10		10																										
+281	Cade Conover	Morse	Don	Prairie Point	20795 W 108th St	Olathe	66061	816-260-1828	4	4																											
+282	Cole Morris	Morris	Troy	Prairie Point	10897 S Millbrook Lane	Olathe	66061	913-530-0604	8	8																											
+283	Alec McKernan	Hartegan	Janelle	Prairie Point	21123 W 107th Ter	Olathe	66061		10	10																											
+284	Joe Placek	Rawlings 	Brian	Prairie Point	10860 Millbrook Lane	Olathe	66061	913-231-0648	12	12																											
+285	Cade Conover	Callahan	Buddy	Prairie Point	20788 W 108th St	Olathe	66061	901-229-3957	13	13																											
+286	Brayden Koch	Heidrick	Jeff	Prairie Point	10870 S Deer Run St	Olathe	66061	913-768-4634	15	15																											
+287	Ryan Mendoza	Cobb	Patrick	Prairie Point	21131 W 108th St	Olathe	66061	913-782-7407	15	15																											
+288	Mason Sadler	Holt	Amy	Prairie Point	21283 W 107th Pl	Olathe	66061	913-219-7672	15	15																											
+289	Joe Placek	Braswell	Matt	Prairie Point	10807 S Brownridge St	Olathe	66061	913-220-4843	20	20																											
+290	Cade Conover	McCalmon	Clay	Prairie Point	20750 W 107th Pl	Olathe	66061	913-484-4450	20	20																											
+291	Ryan Mendoza	Chaffin	Carolyn 	Prairie Point	21223 W 107th Place	Olathe	66061	816-225-4254	20	20																											
+292	Alec McKernan	Mance	Jason	Prairie Point	20794 W 107th Pl	Olathe	66061	913-904-8953	25	25																											
+293	Sam Conger	Conger	Brad	Prairie Point	21142 W 108th Ter	Olathe	66061	913-238-9296	25	25																											
+294	Joe Placek	Risley	Jason	Prairie Point	10875 S Millbrook 	Olathe	66061	913-787-5625	30	30																											
+295	Cade Conover	Conover	Chad	Prairie Point	20792 W 108th St	Olathe	66061	913-449-7352	30	30																											
+296	Joe Placek	Placek	Angie	Prairie Point	10871 Millbrook Lane	Olathe	66061	913-593-8854	35	35																											
+297	Mason Sadler	Weaver	Jim	Prairie Point	21282 W 107th Ter	Olathe	66061	913-609-3345	45	45																											
+298	Brayden Koch	Krannawitter	Lea 	Prairie Point	10868 S Brownridge St	Olathe	66061	913-219-5420	60	60																											
+299	Brayden Koch	Belshe	Kristina	Prairie Point	21145 W 108th Ter	Olathe	66061	816-223-1027	10		10																										
+300	Cole Morris	Reyes	Armando	Prairie Point	10883 S Millbrook Lane	Olathe	66061	405-924-2614	20		20																										
+301	Cole Manning	Pearson	Jacki	Prairie Point	21046 W 108th Ter	Olathe	66061	913-839-1560	20		20																										
+302	Joe Placek	Scott	David	Prairie Point	10868 S Millbrook Lane	Olathe	66061	913-488-2284	25		25																										
+303	Alec McKernan	Hudnut	Tony	Prairie Point	21153 W 108th St	Olathe	66061	913-387-9383	30		30																										
+304	Matt Vanderslice	Vanderslice	Bev/Rick	Quivira Farms	12607 W 109th St	Overland Park	66210	913-608-5242	12	12																											
+305	Kyle Winn	Marquez	Tammie	Ravencrest	10666 S. Emerald St	Olathe	66061	913-406-3424	10	10																											
+306	Ryan Mendoza	Willson	Andrea	Ravenwood	20790 W 121st St	Olathe	66061	913-953-1107	7	7																											
+307	Jamison Baiza	Hestand	Trisha	Ravenwood	12358 S Lincoln St	Olathe	66061	417-629-4635	8		8																										
+308	Kreg Herman	Sharp 	Nissa	Ravenwood	11953 S Lincoln St	Olathe	66061	913-638-1274	10		10																										
+309	Connor Delong	Kenney	Corey/Jill	Ravenwood	21077 W 120th St	Olathe	66061	913-764-0613	10		10																										
+310	Jackson Butler	Smith 	Greg	Ravenwood	12126 S Monroe St	Olathe	66061	913-205-5113	20		20																										
+311	Weston Davis	Jones	Colby	Ravenwood	12240 S Clinton Court	Olathe	66061	816-674-6704	20		20																										
+312	Mason Sadler	Swift	Leslie	Ravenwood	21178 W 123rd St	Olathe	66061	913-957-9287	20		20																										
+313	Weston Davis	Ocander	Shane	Ravenwood	12260 S Monroe St	Olathe	66061	913-221-8598	25		25																										
+314	Weston Davis	White	Matt	Ravenwood Place	12215 S Monroe St Place	Olathe	66061	913-220-4757	5	5																											
+315	Michael Roland	Luttrell	Stephanie	Ravenwood Place	12023 S Clinton St	Olathe	66061	913-626-9451	30	30																											
+316	Weston Davis	Wilkinson	Michael	Ravenwood Place	12285 S Monroe St	Olathe	66061	913-522-5615	10		10																										
+317	Weston Davis	Davis	Susan	Ravenwood Place	12230 S Monroe St	Olathe	66061	913-593-9160	12		12																										
+318	Kreg Herman	Miller	Jody	Red Oak Hills	7031 Clairborne Court	Shawnee	66217	913-901-7290	10			10																									
+319	Kreg Herman	Bryant	Charlie 	Ridgeview So	1006 Ridgeway Dr	Olathe	66061	913-782-5938	5					5																							
+320	Jake Herl	Gad	Jessica	Scarborough	1815 Parkwood Dr	Olathe	66062	913-302-3684	6	6																											
+321	Chase Hartquist	Dohrman	Ginger	Shadow Highlands	10731 S. Cedar Niles Blvd.	Olathe	66061	913-780-9256	50	50																											
+322	Jack Parks	Meyer	Dave	Shadow Highlands	10755 S Oakcrest Lane	Olathe	66061	913-254-0802	100	100																											
+323	Jack Parks	Parks	Neli/Mark	Shadow Highlands	27051 W 108th St	Olathe	66061	913-530-6371	215	215																											
+324	Seth Evans	Dettwiler	Neil	Southglen	11314 S Gander St	Olathe	66061	913-515-2326	10	10																											
+325	Michael Roland	Sanchez	David	Southglen	11384 S Gander St	Olathe	66061	913-486-5257	10	10																											
+326	Matthew Clark	Parazin	Chris/Carrie	Southglen	11638 S Carbondale St	Olathe	66061	913-269-7053	10	10																											
+327	Jon Jenkins	Warren	Susan	Southglen	24245 W 112th Ter	Olathe	66061	913-839-9810	10	10																											
+328	Mitch Midyett	Midyett	Gary	Southglen	11490 S. Wilder St	Olathe	66061	913-782-7033	12	12																											
+329	Matthew Clark	Couch	David/Carlene	Southglen	11454 S Wilder St	Olathe	66061	913-829-5825	15	15																											
+330	Mitch Midyett	Mize	Tammy	Southglen	11478 S. Wilder St	Olathe	66061	913-397-8048	15	15																											
+331	Charlie Pfister	Thomas	Trent	Southglen	11534 S Sumac St	Olathe	66061		15	15																											
+332	Jackson Nicodemus	Nicodemus	Tracy	Southglen	11442 S. Wilder St	Olathe	66061	913-219-3855	20	20																											
+333	Jackson Nicodemus	LaTorella	Todd	Southglen	11455 S. Wilder St	Olathe	66061	913-390-8104	20	20																											
+334	Mitch Midyett	Midyett	Lance	Southglen	11490 S. Wilder St	Olathe	66061	913-782-7033	20	20																											
+335	Jackson Butler	Butler	Pat	Southglen	23958 W 112th Ter	Olathe	66061	913-909-6455	25	25																											
+336	Jon Jenkins	Sanders	Tiffany	Southglen	11291 S Gander St	Olathe	66061	913-481-2895	28	28																											
+337	Matthew Clark	Clark	John/Holly	Southglen	11639 S Carbondale St	Olathe	66061	402-305-2183	28	28																											
+338	Jon Jenkins	Conklin	Kenny	Southglen	24240 W 112th Ter	Olathe	66061	913-904-8983	28	28																											
+339	Jackson Butler	Waters	Rachelle	Southglen	11320 S. Cook St.	Olathe	66061	913-832-2919	30	30																											
+340	Mitch Midyett	Anselmi	Kent	Southglen	11443 S. Wilder St	Olathe	66061	913-390-8029	30	30																											
+341	Jackson Butler	Brown	Curt/Brittany	Southglen	11306 S Cook	Olathe	66061	913-782-3867	40	40																											
+342	Harrison Byrd	Byrd	Bryan	Southglen	11457 S Carbondale St	Olathe	66061	512-775-1644	40	40																											
+343	Jackson Butler	Lamb	Charlie/Christina	Southglen	23950 W 112th Ter	Olathe	66061	913-909-0984	40	40																											
+344	Jon Jenkins	Jenkins	Ed	Southglen	24280 W 112th Ter	Olathe	66061	913-220-5159	40	40																											
+345	Harrison Byrd	Rebne	Kristen/Nic	Southglen	11461 S Carbondale St	Olathe	66061	804-687-8966	42	42																											
+346	Quinn Stambaugh	Stambaugh	Jon	Southglen	11383 S Gander St	Olathe	66061	913-638-7297	50	50																											
+347	Wyatt Sharpe	Sharpe	Matthew	Southglen	11574 S Carbondale St	Olathe	66061	913-764-5694	50	50																											
+348	Lawson McGrain	Claussen	Judd	Southglen	11705 S Barth Rd	Olathe	66061	913-927-2801	50	50																											
+349	Jon Bowman	Bowman	Brenda	Southglen	11281 S Gander St	Olathe	66061	913-839-2552	60	60																											
+350	Charlie Pfister	Morrison	Jenny	Southglen	11467 S Wilder St	Olathe	66061	913-660-5696	60	60																											
+351	Jon Jenkins	Forbes	Sue	Southglen	24024 W 113th Ter	Olathe	66061	913-961-5466	60	60																											
+352	Mitch Midyett	North	Chris/Rachel	Southglen	11484 S. Wilder St	Olathe	66061	913-226-0196	70	70																											
+353	Sterling Swinford	Swinford	Wes	Southglen	24355 W 114th St	Olathe	66061	913-221-7815	100	100																											
+354	Chase Hartquist	Hartquist	Chase	Southglen	11470 S. Carbondale St.	Olathe	66061	785-249-3231	150	150																											
+355	Wyatt Sharpe	Justis	Gary	Southglen	11580 S Carbondale St	Olathe	66061	913-484-6016	150	150																											
+356	Matthew Clark	Grisolia	Sharon 	Southglen	11561 S Carbondale St	Olathe	66061	602-793-3416	5		5																										
+357	Jon Jenkins	Hines	Jason	Southglen	24220 W 112th Ter	Olathe	66061	402-212-3457	5		5																										
+358	Matthew Clark	Dalrymple	Tanya/Jeff	Southglen	11289 S Belmont St	Olathe	66061		10		10																										
+359	Wyatt Sharpe	Grisolia	Sharon/Rob	Southglen	11561 S Carbondale St	Olathe	66061	602-793-3446	10		10																										
+360	Charlie Holmgren	Holthus	Brian	Southglen	24290  W 113th Ter	Olathe	66061	913-839-3271	15		15																										
+361	Michael Roland	Roland	Rich/Laura	Southglen	11353 S Gander St	Olathe	66061	913-839-3654	20		20																										
+362	Seth Evans	Chadwick	Clint	Southglen	11546 S Sumac St	Olathe	66061	913-839-1249	20		20																										
+363	Jackson Butler	Offill	Karen	Southglen	23985 W 112th St	Olathe	66061	913-439-0329	20		20																										
+364	Jon Jenkins	Conrad	Ted	Southglen	24260 W 112th Ter	Olathe	66061	913-948-1530	20		20																										
+365	Michael Roland	Swanepoel	Jacobie	Southglen	11363 S Gander St	Olathe	66061	913-642-2018	30		30																										
+366	Wyatt Sharpe	Pavkov	Sarah	Southglen	11568 S Carbondale St	Olathe	66061	913-449-4273	30		30																										
+367	Seth Evans	Evans	Rhett	Southglen	11373 S Gander St	Olathe	66061	785-424-0816	40		40																										
+368	Colton Prock	Shrader	Tom	Southglen	11723 S Lewis Dr	Olathe	66061	913-485-6103	40		40																										
+369	Nathan Rouse	McGuire/Blow	Bridget/Clif	Southglen	24135 W 113th Ter	Olathe	66061	913-549-8743	40		40																										
+370	Jackson Butler	Holsinger	Tavis	Southglen	23945 W 112th Ter	Olathe	66061	913-526-2151	50		50																										
+371	Jackson Nicodemus	Sears	Joe	Southglen	11436 S. Wilder St	Olathe	66061	913-768-7430	61		55	6																									
+372	Andrew Dumas	Dumas	Lynn	Southglen	11539 S Lewis Dr	Olathe	66061	816-305-4528	65		65																										
+373	Wyatt Sharpe	Iodice	Merinda	Southglen	11562 S Carbondale St	Olathe	66061	913-219-7055	66		66																										
+374	Alex Henige	Merriman	Dena	Southglen	11555 S Lewis Dr	Olathe	66061	913-313-9953	80		80																										
+375	Jackson Butler	Tarvin	Sara	Southglen	11547 S Lewis Dr	Olathe	66061	913-461-8241	100		100																										
+376	Alex Hockett	Hockett	Scott	Stagecoach Meadows	1104 S Lennox Dr	Olathe	66062	913-558-4731	40	40																											
+377	Steven Elvin	Kring	Tony	Stone Ridge Manor	8014 Hall St.	Lenexa	66219	913-234--5222	12		8	4																									
+378	Tyler McCoach	Holdman	Kara	Stoneview	10118 Deer Run St	Lenexa	66220	913-488-3718	12	12																											
+379	Lawson McGrain	Ware	Tim	Stoneview	10122 Theden Circle	Lenexa	66220	816-465-1556	20	20																											
+380	Lawson McGrain	McGrain	Nick	Stoneview	10129 Theden Circle	Lenexa	66220	913-764-1429	25	25																											
+381	Lawson McGrain	Woodhead	Woody	Stoneview	10133 Theden Circle	Lenexa	66220		5		5																										
+382	Kendall McNeal	Schaife	John	Stoneview	10232 Marion St	Lenexa	66220	913-782-4780	10		10																										
+383	Kendall McNeal	Harper	Scott 	Stoneview	10234 Marion St	Lenexa	66220	913-488-1279	21		21																										
+384	Tyler McCoach	Spears	Catherine	Stoneview	10124 Deer Run St	Lenexa	66220	913-378-3028	30		30																										
+385	Joe Placek	Gover	Diane	Stratton Oaks	11236 S McCoy St	Olathe	66061	913-568-4482	12	12																											
+386	Kaleb White	Coots	Julie	Stratton Oaks	22484 W 113th Pl	Olathe	66061	913-523-4472	50	25				25																							
+387	Kaleb White	Nickel	Sarah	Stratton Oaks	11446 S Chouteau St	Olathe	66061	316-992-4529	2		2																										
+388	Kaleb White	Williams	Seth	Stratton Oaks	22471 W 113th St	Olathe	66061	913-787-7132	4		4																										
+389	Kaleb White	Matthews	Luke	Stratton Oaks	22451 W 113th St	Olathe	66061	913-638-7650	10		10																										
+390	Kaleb White	White	Jason	Stratton Oaks	22465 W 113th Pl	Olathe	66061	913-782-8702	20		20																										
+391	Kaleb White	Loschen	Lauren/Tom	Stratton Oaks	22434 W 113th Pl	Olathe	66061	913-397-6749	10				10																								
+392	Kaleb White	Nukala	Naca	Stratton Oaks	22435 W 113th Pl	Olathe	66061	913-638-9663	5					5																							
+393	Alex Baiza	Brown	Russell	Terrace Place	8709 W 131st Place	Overland Park	66213	913-897-6446	20	20																											
+394	Jack Rone	Rone	Chris	The Woods Of Hidden Valley	14108 W. 51st Court	Shawnee	66216	913-579-5643	26		6				20																						
+395	Jack Rone	Rosner	Vanetta	Two Trails Duplexes	1207/1209 E. Cothrell	Olathe	66061	913-963-2949	6		6																										
+396	Andrew Tracy	McVey	Mike	Whispering Hills	8853 Sunset Dr	Lenexa	66220	816-210-5980	32	12		20																									
+397	Quinn Todd	Todd	Steve	Whispering Hills	20705 Mill Rd.	Lenexa	66220	913-530-3119	30	30																											
+398	Michael Marinakis	Marinakis	Dimitrios	Whispering Hills	21002 Bittersweet Dr	Lenexa	66220	913-226-4042	60		60																										
+399	Gabe Barfety	Hoar	Tonia	Whispering Hills	8823 Sunset Dr	Lenexa	66220	816-225-0497	40					40																							
+400	Grant Hall	Leiker	Joe	Windsor Trace	20941 W 125th St	Olathe	66061	913-768-1336	30	30																											
+401	Easton Crupper	Cogswell	Leah	Woodland Creek	15676 S. Blackfoot St	Olathe	66062	913-208-0507	25			25																									
+402	Noah Galimba	Poindexter	Brian	Woodland Hills Reserve	19677 W 116th Ter	Olathe	66061	913-669-2784	5	5																											
+403	Noah Galimba	Pishny	Brendon	Woodland Hills Reserve	19686 W 116th Ter	Olathe	66061	913-269-8478	5	5																											
+404	Noah Galimba	Trecek	Michael	Woodland Hills Reserve	19788 W 116th Ter	Olathe	66061	913-221-3976	8	8																											
+405	Noah Galimba	Galimba	Jhunne	Woodland Hills Reserve	11796 S Longleg St	Olathe	66061	913-909-6852	10	10																											
+406	Noah Galimba	Haggerty	Brian	Woodland Hills Reserve	19849 W 116th Ter	Olathe	66061	816-651-7036	10		10																										
+407	Brayden Staton	Scott	Melissa	Woodland Manor	20119 W 108th Ter	Olathe	66061		5	5																											
+408	Brayden Staton	Davis	Chris	Woodland Manor	20350 W 108th Ter	Olathe	66061	913-706-2379	10	10																											
+409	Easton Crupper	Freeman	David	Woodland Manor	10834 S. Belford St	Olathe	66061	913-375-6552	12	12																											
+410	Brayden Staton	Ragogna-Adams	Angela	Woodland Manor	10891 S Harwick St	Olathe	66061	913-486-9420	22	20			2																								
+411	Brayden Staton	Lewis	Brooke	Woodland Manor	10882 S Harwick St	Olathe	66061	785-559-0587	25	25																											
+412	Andrew Tracy	Linder 	Pete	Woodland Manor	20341 W 108th St	Olathe	66061	913-593-8246	35	35																											
+413	Brayden Staton	Harris	Brian	Woodland Manor	10892 S Harwick St	Olathe	66061	913-832-8297	20		20																										
+414	Brayden Staton	Tucker	Terry	Woodland Manor	20057 W 108th Ter	Olathe	66061		10					10																							
+415	Jamison Baiza	Thompson	Kenton	Woodland Meadows	11655 S Chestnut St	Olathe	66061		50	20		30																									
+416	Jamison Baiza	Bouwens	Shawn	Woodland Meadows	11669 S Chestnut St	Olathe	66061	913-369-5828	50	50																											
+417	Jamison Baiza	Royer	Rick	Woodland Meadows	20032 W 116th Court	Olathe	66061	913-393-4395	20			20																									
+418	Alex Baiza	Salmen	Lisa	Woodland Meadows	19930 W 117th Ter	Olathe	66061	913-764-6102	4				4																								
+419	Alex Baiza	Baiza	Dan/Dee	Woodland Meadows	19984 W 116th Court	Olathe	66061	913-390-6104	20				20																								
+420	Andrew Tracy	Henderson	Jeff	Woodland Reserve	20111 W 90th St	Lenexa	66220		20	20																											
+421	Andrew Tracy	Plaas	Joel	Woodland Reserve	8908 Pine St	Lenexa	66220		22	22																											
+422	Ben Savage	Savage	Greg	Woodland Reserve	20631 W. 88th St	Lenexa	66220	913-998-1034	70		70																										
+423	Skyler King	Jin	Yun		19911 W. 99th St	Lenexa	66220	913-438-5147	5	5																											
+424	Bennett Jones	Cunningham	W		20080 W 105th St	Olathe	66061	913-642-4705	5	5																											
+425	Brayden Staton	Kardis	Julie		20199 W 108th Ter	Olathe	66061		5	5																											
+426	Jake Herl	Herl	Betty		10508 W 127th Ter	Olathe	66062	913-441-3910	10	10																											
+427	Brooks Kennedy	Selman	Kem		13330 W. 112th St	Overland Park	66210	913-469-9341	10	10																											
+428	Skyler King	Brown	Rick		20007 W. 99th St	Lenexa	66220		10	10																											
+429	Gabe Barfety	Mullan	Courtney		21509 W 99th St	Lenexa	66220	913-230-0301	10	10																											
+430	Brayden Staton	Weaver	Laura		5245 N 115th St	Kansas City	66109	913-530-4854	10	10																											
+431	Brooks Kennedy	Wendland	Tammy		14943 S. Violet St.	Olathe	66061	913-534-1958	11	11																											
+432	Quinn Todd	Spykerman	Kevin		12718 W. 100th St	Lenexa	66215	913-221-7110	13	13																											
+433	Brayden Staton	Winkler	Barbara		8425 W 68th Ter	Overland Park	66204	913-384-1206	15	15																											
+434	Chase Hartquist	Anspaugh	Clayton/Michelle		10534 King St	Overland Park	66214	816-810-1266	40	40																											
+435	Andrew Tracy	Burnett	Christy		20808 W 100th Ter	Lenexa	66220	913-209-0424	40	40																											
+436	Cody Cost	Longley	Gloria		14715 S. Wyandotte Dr.	Olathe	66062	913-393-3832	60	60																											
+437	Brooks Kennedy	McCauley	Beverly		13105 W. 127th Place	Overland Park	66213	913-768-8284	100	100																											
+438	Elijah Kavila	Garcia	Alma		915 N. Sunset Dr.	Olathe	66061	408-420-1712	1		1																										
+439	Cody Cost	Pickett	Orin/Christa		14517 W. 94th Ter	Lenexa	66215	913-894-5628	11		3	8																									
+440	Jake Herl	Herl	Becky		5620 Cody	Shawnee	66203	785-259-5027	4		4																										
+441	Cade Conover	Sparks	Jason		20648 W 107th Pl	Olathe	66061	913-687-0309	5		5																										
+442	Andrew Tracy	Anctil	Paul		10111 Redbud Lane	Lenexa	66226	913-558-8434	7		6				1																						
+443	Tanner Wilson	Bozzoli	Lisa		11951 S. Barth Rd.	Olathe	66061		10		10																										
+444	Jackson Butler	Ortman	Mardy		14708 S. Brougham	Olathe	66062	913-634-2132	10		10																										
+445	Andrew Tracy	Polich	Lora		19511 W 97th St	Lenexa	66220	816-616-9198	10		10																										
+446	Jack Rone	Rone	Wendell		210 Glenview W	Lake Quivira	66217	913-631-7979	10		10																										
+447	Charlie Pfister	Bishop	Roy		718 W Wabash St	Olathe	66061	913-991-6025	10		10																										
+448	Brooks Kennedy	Ferneau	Brent		1139 E. Sheridan Bridge Lane	Olathe	66062	913-200-1723	12		12																										
+449	Ben Savage	Lennaccaro	John		15916 W. 152nd Terrace Place	Olathe	66062	913-216-6196	30		30																										
+450	Alex Baiza	Barker	Russell		14094 W 142nd St	Olathe	66062	913-440-9432	35		35																										
+451	Brooks Kennedy	Mounkes	Charles		1527 W. Romany Court	Olathe	66061	913-742-1930	40		40																										
+452	Sam Verhulst	Verhulst	Steven		724 Wabash St	Olathe	66061	913-406-4817	50		50																										
+453	Sam Verhulst	Verhulst	Mark		805 Kansas City Rd	Olathe	66061	913-764-1656	50		50																										
+454	Mitch Midyett	Scherrer	Mike/Jane		11460 S. Wilder St	Olathe	66061	913-782-6774	10			10																									
+455	Chase Franks	Pickett	Susan		12361 S Crest Dr.	Olathe	66061	785-410-3078	10			10																									
+456	Matt Vanderslice	Kline	Aaron		8303 Bridle Dale Cir	Lenexa	66220	913-209-5392	10			10																									
+457	Elijah Kavila	Thompson	Jamie		1279 N. Lucy Montgomery Rd	Olathe	66061	218-838-5798	4				4																								
+458	Jamison Baiza	Grigsby	Penney		703 E Park St	Olathe	66061	913-829-6637	4				4																								
+459	Brayden Staton	Johnson 	Annette		12915 S Blackfoot Dr	Olathe	66062	913-206-5172	6				6																								
+460	Brayden Staton	Johnson 	Annette		21708 W 99th Ter	Lenexa	66220	913-206-5172	14				14																								
+461	Gabe Barfety	Long 	Becky		21509 W 99th St	Olathe	66061	913-230-0301	4					4																							
+462	Kyle Winn	Hiesberger	Matt		316 S. Walker St	Olathe	66061	816-516-1052	5					5																							
+463	Elijah Kavila	Peterman	Ken		731 N Somerset	Olathe	66062	773-883-9933	5					5																							
+464	Brooks Kennedy	Brown	Scott/Susie		15271 W. 147th St.	Olathe	66062	913-710-1534	8					8																							
+465	Gabe Barfety	Mark	Lee Ann		21509 W 99th St	Lenexa	66220	913-230-0301	8					8																							
+466	Gabe Barfety	Mark	Jared/Sara		21509 W 99th St	Lenexa	66220	913-230-0301	10					10																							

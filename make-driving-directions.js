@@ -3,6 +3,9 @@ var page = webpage.create();
 var system = require('system');
 var fs = require('fs');
 
+var now = new Date();
+var today = now.getMonth() + 1 + "-" + now.getDate() + "-" + now.getFullYear(); 
+
 page.viewportSize = {width:800, height:800}
 
 page.onError=function(msg, trace){
@@ -19,8 +22,9 @@ page.onConsoleMessage = function(msg, lineNum, sourceId){
         setTimeout(function() {
             //page.render('output/' +new Date().getTime() + 'map.pdf')
             var delivery = deliveries[deliveriesIdx];
-            var name =  (delivery[0].trim() + ', ' + delivery[1].trim()).replace('/', ' ')
-            page.render('output/'+name + ' ' +new Date().getTime() + '.png')
+            var name =  delivery[0].trim() + ' ' + delivery[2].trim().replace(/\//gi, '_') + ' ' + today
+            console.log(name)
+            page.render('output/'+name +  '.png')
             deliveriesIdx++;
             makeDirections();
         }, 1000);
@@ -45,39 +49,39 @@ function doTheStuff(){
 }
 
 function makeDirections(){
-    //if(deliveriesIdx == 3){
-    if(deliveriesIdx == deliveries.length){
+    if(deliveriesIdx == 50){
+    //if(deliveriesIdx == deliveries.length){
         phantom.exit();
     }
     var delivery = deliveries[deliveriesIdx];
     
-    var to = delivery[3].trim();
+    var to = delivery[5].trim();
     if(to){
         console.log('get directions',delivery)
-        to = to + ", " + delivery[4].trim() + ", KS, "+ ", " + delivery[4].trim();
+        to = to + ", " + delivery[6].trim() + ", KS, "+ ", " + delivery[7].trim();
         var from = '21300 College Blvd, olathe, ks';
-        var details = delivery[1].trim() + ' ' + delivery[0].trim()
-            + "<br>" + delivery[2].trim()
-            + "<br>" + delivery[6].trim();
-        if(delivery[8].trim()){
-            details = details + "<br>Cypress - " + delivery[8].trim()
-        }
-        if(delivery[9].trim()){
-            details = details + "<br>Cedar - " + delivery[9].trim()
-        }
+        
+        var details = delivery[0].trim() + ', ' + delivery[4].trim() +', ' + delivery[2].trim() +', ' + delivery[3].trim()
+            + "<br>" + delivery[8].trim();
         if(delivery[10].trim()){
             details = details + "<br>Brown - " + delivery[10].trim()
         }
         if(delivery[11].trim()){
-            details = details + "<br>Red - " + delivery[11].trim()
+            details = details + "<br>Black - " + delivery[11].trim()
         }
         if(delivery[12].trim()){
-            details = details + "<br>Compost - " + delivery[12].trim()
+            details = details + "<br>Cypress - " + delivery[12].trim()
         }
         if(delivery[13].trim()){
-            details = details + "<br>Black - " + delivery[13].trim()
+            details = details + "<br>Cedar - " + delivery[13].trim()
         }
-        details = details + "<br>Total - " + delivery[7].trim()
+        if(delivery[14].trim()){
+            details = details + "<br>Red - " + delivery[14].trim()
+        }
+        if(delivery[15].trim()){
+            details = details + "<br>Compost - " + delivery[15].trim()
+        }
+        details = details + "<br>Total - " + delivery[9].trim()
         //console.log(details);
         page.evaluate(function(f,t, d){
             
