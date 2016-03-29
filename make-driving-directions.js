@@ -40,7 +40,8 @@ page.onConsoleMessage = function(msg, lineNum, sourceId){
 var deliveries = [];
 var deliveriesIdx = 0;
 function doTheStuff(){
-    var data = fs.read('Mulch_2016.txt').trim().split('\n');
+    var data = fs.read('Mulch_2016.txt').split('\n');
+    
     for (var index = 1; index < data.length; index++) {
         var delivery = data[index].split('\t');
         deliveries.push(delivery)
@@ -49,20 +50,22 @@ function doTheStuff(){
 }
 
 function makeDirections(){
-    if(deliveriesIdx == 50){
-    //if(deliveriesIdx == deliveries.length){
+    //if(deliveriesIdx == 5){
+    if(deliveriesIdx == deliveries.length){
         phantom.exit();
     }
-    var delivery = deliveries[deliveriesIdx];
-    
+    var delivery = deliveries[deliveriesIdx];    
+  
     var to = delivery[5].trim();
     if(to){
         console.log('get directions',delivery)
         to = to + ", " + delivery[6].trim() + ", KS, "+ ", " + delivery[7].trim();
         var from = '21300 College Blvd, olathe, ks';
         
-        var details = delivery[0].trim() + ', ' + delivery[4].trim() +', ' + delivery[2].trim() +', ' + delivery[3].trim()
-            + "<br>" + delivery[8].trim();
+        var details = delivery[4].trim() + ', ' + delivery[5].trim() +', ' + delivery[6].trim() 
+            + "<br>" + delivery[0].trim() + ', ' +delivery[3].trim() + ' ' + delivery[2].trim() +', ' + delivery[8].trim();
+            
+            
         if(delivery[10].trim()){
             details = details + "<br>Brown - " + delivery[10].trim()
         }
